@@ -25,8 +25,17 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), as 
 
 ## NYC neighbourhood boundaries
 
-To be added once the boundary dataset has been downloaded and validated
-(planned source: NYC Department of City Planning, 2020 Neighborhood Tabulation Areas, via NYC Open Data).
+## NYC neighbourhood boundaries
+
+- **Name:** 2020 Neighborhood Tabulation Areas (NTAs)
+- **Publisher:** NYC Department of City Planning (DCP), via NYC Open Data
+- **Source:** https://data.cityofnewyork.us/d/9nt8-h7nd
+- **Downloaded:** 19 November 2026, as GeoJSON (Export from the page above)
+- **Local file:** `data/raw/nta2020.geojson` (renamed from the original download)
+- **Edition:** not recorded in the file itself; DCP's current metadata document lists edition 26D
+- **Contents:** 262 polygons, CRS EPSG:4326 in the exported file
+- **`ntatype` codes (DCP metadata):** 0 Residential, 5 Rikers Island, 6 Other special areas, 7 Cemetery, 8 Airport, 9 Park
+- **Caveat (DCP):** NTAs approximate neighbourhoods and are not intended to definitively represent them.
 
 ## Folders
 
