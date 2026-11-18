@@ -7,7 +7,8 @@ The raw data files are **not stored in this repository**. They are kept locally 
 - **Name:** Airbnb Data: New York City 5Y (2021-26)
 - **Provider:** Jason_AirROI (data sourced from AirROI)
 - **Source:** https://www.kaggle.com/datasets/jasonairroi/airbnb-short-term-rental-data-new-york-city
-- **Licence:** Attribution-NonCommercial 4.0 (as shown on the Kaggle dataset page). Used here for non-commercial academic purposes, with attribution.
+- **Licence:** 
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), as shown on the Kaggle dataset page. Used here for non-commercial academic purposes, with attribution to the author (Jason_AirROI; data sourced from AirROI).
 
 ### Files used (place in `data/raw/`)
 
