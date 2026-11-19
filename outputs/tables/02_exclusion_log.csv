@@ -1,0 +1,4 @@
+step,reason,rows_affected,listings_affected
+coordinates,Coordinates outside NYC bounding box; excluded from SPATIAL analysis only (kept for citywide temporal analysis),55,1
+spatial,Inside NYC box but outside every NTA polygon (spatial analysis only),45,2
+spatial,"Inside a non-residential NTA (park, cemetery, special area, airport, Rikers) (spatial analysis only)",1358,42
