@@ -1,0 +1,22 @@
+nta2020,ntaname,boroname,2022,2023,2024,2025,pattern,category
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,HH,ns,ns,ns,HH-ns-ns-ns,High-High in 2022 only
+BK0501,Cypress Hills,Brooklyn,ns,LL,ns,ns,ns-LL-ns-ns,Cluster in 2023-2024 only
+BX0501,University Heights (South)-Morris Heights,Bronx,ns,LL,LL,few,ns-LL-LL-few,Cluster in 2023-2024 only
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,HH,HH,HH,ns,HH-HH-HH-ns,High-High lost (not significant in 2025)
+MN0202,Greenwich Village,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0203,West Village,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0301,Chinatown-Two Bridges,Manhattan,HH,HH,HH,LH,HH-HH-HH-LH,High-High became Low-High outlier
+MN0303,East Village,Manhattan,ns,HH,ns,ns,ns-HH-ns-ns,Cluster in 2023-2024 only
+MN0401,Chelsea-Hudson Yards,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0402,Hell's Kitchen,Manhattan,HH,HH,HH,ns,HH-HH-HH-ns,High-High lost (not significant in 2025)
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0502,Midtown-Times Square,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0602,Gramercy,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0603,Murray Hill-Kips Bay,Manhattan,HH,HH,HH,HH,HH-HH-HH-HH,High-High persisted
+MN0604,East Midtown-Turtle Bay,Manhattan,HH,HH,HH,ns,HH-HH-HH-ns,High-High lost (not significant in 2025)
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,HH,HH,HH,ns,HH-HH-HH-ns,High-High lost (not significant in 2025)
+MN0802,Upper East Side-Carnegie Hill,Manhattan,HH,HH,HH,ns,HH-HH-HH-ns,High-High lost (not significant in 2025)
+QN0203,Woodside,Queens,LL,ns,LL,LL,LL-ns-LL-LL,Low-Low persisted
+QN0301,Jackson Heights,Queens,LL,LL,LL,LL,LL-LL-LL-LL,Low-Low persisted
+QN0401,Elmhurst,Queens,ns,ns,ns,LL,ns-ns-ns-LL,Low-Low emerged by 2025
+QN0501,Maspeth,Queens,few,few,LL,LL,few-few-LL-LL,Low-Low emerged by 2025

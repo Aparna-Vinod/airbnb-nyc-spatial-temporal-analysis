@@ -1,0 +1,198 @@
+nta2020,ntaname,boroname,2022,2023,2024,2025
+BK0101,Greenpoint,Brooklyn,ns,ns,ns,ns
+BK0102,Williamsburg,Brooklyn,ns,ns,ns,ns
+BK0103,South Williamsburg,Brooklyn,ns,ns,ns,few
+BK0104,East Williamsburg,Brooklyn,ns,ns,ns,ns
+BK0201,Brooklyn Heights,Brooklyn,ns,ns,ns,few
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,HH,ns,ns,ns
+BK0203,Fort Greene,Brooklyn,ns,ns,ns,ns
+BK0204,Clinton Hill,Brooklyn,ns,ns,ns,ns
+BK0301,Bedford-Stuyvesant (West),Brooklyn,ns,ns,ns,ns
+BK0302,Bedford-Stuyvesant (East),Brooklyn,ns,ns,ns,ns
+BK0401,Bushwick (West),Brooklyn,ns,ns,ns,ns
+BK0402,Bushwick (East),Brooklyn,ns,ns,ns,ns
+BK0501,Cypress Hills,Brooklyn,ns,LL,ns,ns
+BK0502,East New York (North),Brooklyn,ns,ns,ns,ns
+BK0503,East New York-New Lots,Brooklyn,ns,ns,ns,ns
+BK0504,Spring Creek-Starrett City,Brooklyn,none,none,none,none
+BK0505,East New York-City Line,Brooklyn,few,few,few,few
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,ns,ns,ns,ns
+BK0602,Park Slope,Brooklyn,ns,ns,ns,ns
+BK0701,Windsor Terrace-South Slope,Brooklyn,ns,ns,ns,ns
+BK0702,Sunset Park (West),Brooklyn,ns,ns,ns,ns
+BK0703,Sunset Park (Central),Brooklyn,ns,ns,few,few
+BK0801,Prospect Heights,Brooklyn,ns,ns,ns,ns
+BK0802,Crown Heights (North),Brooklyn,ns,ns,ns,ns
+BK0901,Crown Heights (South),Brooklyn,ns,ns,ns,ns
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,ns,ns,ns,ns
+BK1001,Bay Ridge,Brooklyn,ns,ns,ns,ns
+BK1002,Dyker Heights,Brooklyn,few,few,few,none
+BK1101,Bensonhurst,Brooklyn,few,few,few,few
+BK1102,Bath Beach,Brooklyn,none,none,few,few
+BK1103,Gravesend (West),Brooklyn,few,few,few,few
+BK1201,Sunset Park (East)-Borough Park (West),Brooklyn,ns,few,few,few
+BK1202,Borough Park,Brooklyn,few,few,few,few
+BK1203,Kensington,Brooklyn,ns,ns,ns,few
+BK1204,Mapleton-Midwood (West),Brooklyn,few,few,few,none
+BK1301,Gravesend (South),Brooklyn,few,few,few,few
+BK1302,Coney Island-Sea Gate,Brooklyn,few,few,few,few
+BK1303,Brighton Beach,Brooklyn,ns,ns,ns,few
+BK1401,Flatbush,Brooklyn,ns,ns,ns,ns
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,ns,ns,ns,ns
+BK1403,Midwood,Brooklyn,ns,ns,few,few
+BK1501,Gravesend (East)-Homecrest,Brooklyn,few,few,few,few
+BK1502,Madison,Brooklyn,ns,ns,ns,ns
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,ns,ns,ns,ns
+BK1601,Ocean Hill,Brooklyn,ns,ns,ns,ns
+BK1602,Brownsville,Brooklyn,ns,ns,ns,ns
+BK1701,East Flatbush-Erasmus,Brooklyn,ns,ns,ns,ns
+BK1702,East Flatbush-Farragut,Brooklyn,ns,ns,ns,ns
+BK1703,East Flatbush-Rugby,Brooklyn,ns,ns,ns,ns
+BK1704,East Flatbush-Remsen Village,Brooklyn,ns,ns,ns,ns
+BK1801,Flatlands,Brooklyn,ns,ns,ns,ns
+BK1802,Marine Park-Mill Basin-Bergen Beach,Brooklyn,ns,few,ns,few
+BK1803,Canarsie,Brooklyn,ns,ns,ns,ns
+BX0101,Mott Haven-Port Morris,Bronx,ns,ns,ns,ns
+BX0102,Melrose,Bronx,few,few,few,few
+BX0201,Hunts Point,Bronx,few,few,few,few
+BX0202,Longwood,Bronx,few,few,few,none
+BX0301,Morrisania,Bronx,ns,ns,ns,few
+BX0302,Claremont Village-Claremont (East),Bronx,none,none,none,none
+BX0303,Crotona Park East,Bronx,few,none,none,none
+BX0401,Concourse-Concourse Village,Bronx,ns,ns,ns,ns
+BX0402,Highbridge,Bronx,ns,ns,ns,few
+BX0403,Mount Eden-Claremont (West),Bronx,few,few,few,few
+BX0501,University Heights (South)-Morris Heights,Bronx,ns,LL,LL,few
+BX0502,Mount Hope,Bronx,ns,few,few,few
+BX0503,Fordham Heights,Bronx,ns,ns,ns,few
+BX0601,West Farms,Bronx,none,none,none,none
+BX0602,Tremont,Bronx,few,few,none,none
+BX0603,Belmont,Bronx,few,few,few,few
+BX0701,University Heights (North)-Fordham,Bronx,few,few,few,few
+BX0702,Bedford Park,Bronx,isl,few,few,few
+BX0703,Norwood,Bronx,few,none,few,few
+BX0801,Kingsbridge Heights-Van Cortlandt Village,Bronx,few,few,few,none
+BX0802,Kingsbridge-Marble Hill,Bronx,few,few,few,few
+BX0803,Riverdale-Spuyten Duyvil,Bronx,few,few,few,none
+BX0901,Soundview-Bruckner-Bronx River,Bronx,few,few,few,few
+BX0902,Soundview-Clason Point,Bronx,few,few,isl,few
+BX0903,Castle Hill-Unionport,Bronx,few,few,few,none
+BX0904,Parkchester,Bronx,few,few,few,none
+BX1001,Westchester Square,Bronx,few,few,few,none
+BX1002,Throgs Neck-Schuylerville,Bronx,isl,isl,isl,few
+BX1003,Pelham Bay-Country Club-City Island,Bronx,none,none,few,few
+BX1004,Co-op City,Bronx,few,few,few,none
+BX1101,Pelham Parkway-Van Nest,Bronx,ns,ns,ns,few
+BX1102,Morris Park,Bronx,ns,ns,ns,few
+BX1103,Pelham Gardens,Bronx,ns,few,few,few
+BX1104,Allerton,Bronx,few,few,few,none
+BX1201,Williamsbridge-Olinville,Bronx,ns,ns,ns,isl
+BX1202,Eastchester-Edenwald-Baychester,Bronx,ns,ns,ns,few
+BX1203,Wakefield-Woodlawn,Bronx,ns,few,few,few
+MN0101,Financial District-Battery Park City,Manhattan,ns,ns,ns,ns
+MN0102,Tribeca-Civic Center,Manhattan,ns,ns,ns,ns
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,HH,HH,HH,ns
+MN0202,Greenwich Village,Manhattan,HH,HH,HH,HH
+MN0203,West Village,Manhattan,HH,HH,HH,HH
+MN0301,Chinatown-Two Bridges,Manhattan,HH,HH,HH,LH
+MN0302,Lower East Side,Manhattan,ns,ns,ns,ns
+MN0303,East Village,Manhattan,ns,HH,ns,ns
+MN0401,Chelsea-Hudson Yards,Manhattan,HH,HH,HH,HH
+MN0402,Hell's Kitchen,Manhattan,HH,HH,HH,ns
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,HH,HH,HH,HH
+MN0502,Midtown-Times Square,Manhattan,HH,HH,HH,HH
+MN0601,Stuyvesant Town-Peter Cooper Village,Manhattan,few,few,few,few
+MN0602,Gramercy,Manhattan,HH,HH,HH,HH
+MN0603,Murray Hill-Kips Bay,Manhattan,HH,HH,HH,HH
+MN0604,East Midtown-Turtle Bay,Manhattan,HH,HH,HH,ns
+MN0701,Upper West Side-Lincoln Square,Manhattan,ns,ns,ns,ns
+MN0702,Upper West Side (Central),Manhattan,ns,ns,ns,ns
+MN0703,Upper West Side-Manhattan Valley,Manhattan,ns,ns,ns,ns
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,HH,HH,HH,ns
+MN0802,Upper East Side-Carnegie Hill,Manhattan,HH,HH,HH,ns
+MN0803,Upper East Side-Yorkville,Manhattan,ns,ns,ns,ns
+MN0901,Morningside Heights,Manhattan,ns,ns,ns,ns
+MN0902,Manhattanville-West Harlem,Manhattan,ns,ns,ns,few
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,ns,ns,ns,ns
+MN1001,Harlem (South),Manhattan,ns,ns,ns,ns
+MN1002,Harlem (North),Manhattan,ns,ns,ns,ns
+MN1101,East Harlem (South),Manhattan,ns,ns,ns,ns
+MN1102,East Harlem (North),Manhattan,ns,ns,ns,ns
+MN1201,Washington Heights (South),Manhattan,ns,ns,ns,ns
+MN1202,Washington Heights (North),Manhattan,ns,ns,ns,ns
+MN1203,Inwood,Manhattan,ns,ns,ns,ns
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,ns,ns,ns,ns
+QN0102,Old Astoria-Hallets Point,Queens,ns,ns,ns,few
+QN0103,Astoria (Central),Queens,ns,ns,ns,ns
+QN0104,Astoria (East)-Woodside (North),Queens,ns,ns,ns,ns
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,ns,ns,ns,ns
+QN0201,Long Island City-Hunters Point,Queens,ns,ns,ns,ns
+QN0202,Sunnyside,Queens,ns,ns,ns,ns
+QN0203,Woodside,Queens,LL,ns,LL,LL
+QN0301,Jackson Heights,Queens,LL,LL,LL,LL
+QN0302,East Elmhurst,Queens,ns,ns,ns,ns
+QN0303,North Corona,Queens,few,few,few,few
+QN0401,Elmhurst,Queens,ns,ns,ns,LL
+QN0402,Corona,Queens,ns,ns,ns,ns
+QN0501,Maspeth,Queens,few,few,LL,LL
+QN0502,Ridgewood,Queens,ns,ns,ns,ns
+QN0503,Glendale,Queens,ns,ns,ns,ns
+QN0504,Middle Village,Queens,few,none,few,few
+QN0601,Rego Park,Queens,ns,ns,few,few
+QN0602,Forest Hills,Queens,ns,ns,ns,ns
+QN0701,College Point,Queens,few,few,ns,ns
+QN0702,Whitestone-Beechhurst,Queens,few,few,few,few
+QN0703,Bay Terrace-Clearview,Queens,few,few,few,none
+QN0704,Murray Hill-Broadway Flushing,Queens,ns,ns,ns,few
+QN0705,East Flushing,Queens,ns,ns,ns,ns
+QN0706,Queensboro Hill,Queens,ns,ns,ns,few
+QN0707,Flushing-Willets Point,Queens,ns,ns,ns,ns
+QN0801,Kew Gardens Hills,Queens,few,few,few,none
+QN0802,Pomonok-Electchester-Hillcrest,Queens,ns,ns,ns,ns
+QN0803,Fresh Meadows-Utopia,Queens,few,few,few,few
+QN0804,Jamaica Estates-Holliswood,Queens,few,few,few,few
+QN0805,Jamaica Hills-Briarwood,Queens,ns,ns,ns,ns
+QN0901,Kew Gardens,Queens,ns,ns,few,none
+QN0902,Richmond Hill,Queens,few,few,ns,few
+QN0903,South Richmond Hill,Queens,few,few,few,none
+QN0904,Ozone Park (North),Queens,few,few,ns,few
+QN0905,Woodhaven,Queens,ns,ns,ns,ns
+QN1001,South Ozone Park,Queens,ns,ns,ns,ns
+QN1002,Ozone Park,Queens,few,few,none,none
+QN1003,Howard Beach-Lindenwood,Queens,few,few,few,few
+QN1101,Auburndale,Queens,few,none,few,few
+QN1102,Bayside,Queens,isl,isl,isl,few
+QN1103,Douglaston-Little Neck,Queens,few,few,few,few
+QN1104,Oakland Gardens-Hollis Hills,Queens,none,none,none,none
+QN1201,Jamaica,Queens,ns,ns,ns,few
+QN1202,South Jamaica,Queens,ns,ns,ns,ns
+QN1203,Baisley Park,Queens,ns,ns,ns,ns
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,ns,ns,ns,ns
+QN1205,St. Albans,Queens,ns,ns,ns,ns
+QN1206,Hollis,Queens,few,few,few,few
+QN1301,Glen Oaks-Floral Park-New Hyde Park,Queens,few,few,few,few
+QN1302,Bellerose,Queens,few,few,few,few
+QN1303,Queens Village,Queens,isl,isl,isl,isl
+QN1304,Cambria Heights,Queens,few,few,few,few
+QN1305,Laurelton,Queens,few,few,few,few
+QN1306,Springfield Gardens (South)-Brookville,Queens,ns,ns,ns,ns
+QN1307,Rosedale,Queens,ns,ns,ns,ns
+QN1401,Far Rockaway-Bayswater,Queens,ns,ns,ns,few
+QN1402,Rockaway Beach-Arverne-Edgemere,Queens,ns,ns,ns,isl
+QN1403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,ns,ns,ns,few
+SI0101,St. George-New Brighton,Staten Island,ns,ns,ns,few
+SI0102,Tompkinsville-Stapleton-Clifton-Fox Hills,Staten Island,ns,ns,ns,few
+SI0103,Rosebank-Shore Acres-Park Hill,Staten Island,few,few,few,few
+SI0104,West New Brighton-Silver Lake-Grymes Hill,Staten Island,ns,ns,ns,isl
+SI0105,Westerleigh-Castleton Corners,Staten Island,few,few,few,few
+SI0106,Port Richmond,Staten Island,few,few,few,few
+SI0107,Mariner's Harbor-Arlington-Graniteville,Staten Island,few,few,few,few
+SI0201,Grasmere-Arrochar-South Beach-Dongan Hills,Staten Island,few,few,few,none
+SI0202,New Dorp-Midland Beach,Staten Island,isl,isl,isl,few
+SI0203,Todt Hill-Emerson Hill-Lighthouse Hill-Manor Heights,Staten Island,few,few,few,none
+SI0204,New Springville-Willowbrook-Bulls Head-Travis,Staten Island,none,none,none,none
+SI0301,Oakwood-Richmondtown,Staten Island,few,few,few,none
+SI0302,Great Kills-Eltingville,Staten Island,none,none,none,none
+SI0303,Arden Heights-Rossville,Staten Island,none,none,few,few
+SI0304,Annadale-Huguenot-Prince's Bay-Woodrow,Staten Island,few,few,few,none
+SI0305,Tottenville-Charleston,Staten Island,few,few,few,few
