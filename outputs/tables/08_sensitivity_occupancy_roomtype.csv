@@ -1,0 +1,9 @@
+year,eligible,analysed,Moran_I,p_value,HH,LL,HL,LH,core_HH_of_7,JacksonHts_LL,scenario
+2022,126,120,0.6618111385943594,0.001,9,2,0,0,6,True,occupancy > 0 only
+2023,114,108,0.6107537167020672,0.001,8,2,0,1,6,True,occupancy > 0 only
+2024,85,82,0.5315562590752906,0.001,2,2,0,1,2,True,occupancy > 0 only
+2025,73,71,0.5694516698535321,0.001,4,2,0,0,4,True,occupancy > 0 only
+2022,86,80,0.3575355708518027,0.001,6,2,1,1,4,False,entire homes only
+2023,84,78,0.36812919801099503,0.001,0,0,0,0,0,False,entire homes only
+2024,93,86,0.3534628267500417,0.001,1,1,1,0,1,False,entire homes only
+2025,68,61,0.3619857011973162,0.002,0,0,0,0,0,False,entire homes only
