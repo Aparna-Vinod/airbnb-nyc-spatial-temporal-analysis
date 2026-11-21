@@ -1,0 +1,826 @@
+nta2020,ntaname,boroname,median_rate,p_sim,quadrant,cluster_fdr,year,version
+BK0101,Greenpoint,Brooklyn,169.3,0.028,High-High,Not significant,2022,log rates
+BK0102,Williamsburg,Brooklyn,192.125,0.032,High-High,Not significant,2022,log rates
+BK0103,South Williamsburg,Brooklyn,156.6,0.135,High-High,Not significant,2022,log rates
+BK0104,East Williamsburg,Brooklyn,163.89999999999998,0.088,High-High,Not significant,2022,log rates
+BK0201,Brooklyn Heights,Brooklyn,177.60000000000002,0.01,High-High,Not significant,2022,log rates
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,174.9,0.001,High-High,High-High,2022,log rates
+BK0203,Fort Greene,Brooklyn,179.1,0.053,High-High,Not significant,2022,log rates
+BK0204,Clinton Hill,Brooklyn,155.0,0.197,High-High,Not significant,2022,log rates
+BK0301,Bedford-Stuyvesant (West),Brooklyn,117.4,0.335,High-High,Not significant,2022,log rates
+BK0302,Bedford-Stuyvesant (East),Brooklyn,90.5,0.388,Low-Low,Not significant,2022,log rates
+BK0401,Bushwick (West),Brooklyn,107.7,0.421,Low-High,Not significant,2022,log rates
+BK0402,Bushwick (East),Brooklyn,97.7,0.11,Low-Low,Not significant,2022,log rates
+BK0501,Cypress Hills,Brooklyn,80.5,0.012,Low-Low,Not significant,2022,log rates
+BK0502,East New York (North),Brooklyn,67.05,0.197,Low-Low,Not significant,2022,log rates
+BK0503,East New York-New Lots,Brooklyn,157.3,0.092,High-Low,Not significant,2022,log rates
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,190.2,0.2,High-High,Not significant,2022,log rates
+BK0602,Park Slope,Brooklyn,190.75,0.144,High-High,Not significant,2022,log rates
+BK0701,Windsor Terrace-South Slope,Brooklyn,153.3,0.394,High-High,Not significant,2022,log rates
+BK0702,Sunset Park (West),Brooklyn,87.9,0.413,Low-High,Not significant,2022,log rates
+BK0703,Sunset Park (Central),Brooklyn,74.65,0.054,Low-Low,Not significant,2022,log rates
+BK0801,Prospect Heights,Brooklyn,116.7,0.114,High-High,Not significant,2022,log rates
+BK0802,Crown Heights (North),Brooklyn,119.15,0.319,High-Low,Not significant,2022,log rates
+BK0901,Crown Heights (South),Brooklyn,118.1,0.34,High-Low,Not significant,2022,log rates
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,105.0,0.461,Low-Low,Not significant,2022,log rates
+BK1001,Bay Ridge,Brooklyn,95.075,0.118,Low-Low,Not significant,2022,log rates
+BK1201,Sunset Park (East)-Borough Park (West),Brooklyn,63.05,0.129,Low-Low,Not significant,2022,log rates
+BK1203,Kensington,Brooklyn,108.15,0.292,Low-High,Not significant,2022,log rates
+BK1303,Brighton Beach,Brooklyn,81.9,0.262,Low-Low,Not significant,2022,log rates
+BK1401,Flatbush,Brooklyn,124.55,0.223,High-Low,Not significant,2022,log rates
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,117.525,0.439,High-Low,Not significant,2022,log rates
+BK1403,Midwood,Brooklyn,71.9,0.494,Low-Low,Not significant,2022,log rates
+BK1502,Madison,Brooklyn,125.15,0.168,High-Low,Not significant,2022,log rates
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,86.05,0.355,Low-Low,Not significant,2022,log rates
+BK1601,Ocean Hill,Brooklyn,79.65,0.055,Low-Low,Not significant,2022,log rates
+BK1602,Brownsville,Brooklyn,90.4,0.242,Low-Low,Not significant,2022,log rates
+BK1701,East Flatbush-Erasmus,Brooklyn,119.25,0.368,High-Low,Not significant,2022,log rates
+BK1702,East Flatbush-Farragut,Brooklyn,113.8,0.318,Low-Low,Not significant,2022,log rates
+BK1703,East Flatbush-Rugby,Brooklyn,88.75,0.275,Low-Low,Not significant,2022,log rates
+BK1704,East Flatbush-Remsen Village,Brooklyn,104.6,0.359,Low-Low,Not significant,2022,log rates
+BK1801,Flatlands,Brooklyn,91.0,0.306,Low-Low,Not significant,2022,log rates
+BK1802,Marine Park-Mill Basin-Bergen Beach,Brooklyn,154.8,0.323,High-Low,Not significant,2022,log rates
+BK1803,Canarsie,Brooklyn,95.55,0.499,Low-Low,Not significant,2022,log rates
+BX0101,Mott Haven-Port Morris,Bronx,76.69999999999999,0.345,Low-Low,Not significant,2022,log rates
+BX0301,Morrisania,Bronx,166.975,0.348,High-Low,Not significant,2022,log rates
+BX0401,Concourse-Concourse Village,Bronx,94.7,0.259,Low-Low,Not significant,2022,log rates
+BX0402,Highbridge,Bronx,75.4,0.157,Low-Low,Not significant,2022,log rates
+BX0501,University Heights (South)-Morris Heights,Bronx,75.95,0.01,Low-Low,Not significant,2022,log rates
+BX0502,Mount Hope,Bronx,95.3,0.007,Low-Low,Low-Low,2022,log rates
+BX0503,Fordham Heights,Bronx,46.15,0.153,Low-Low,Not significant,2022,log rates
+BX1101,Pelham Parkway-Van Nest,Bronx,124.32499999999999,0.023,High-Low,Not significant,2022,log rates
+BX1102,Morris Park,Bronx,57.7,0.476,Low-High,Not significant,2022,log rates
+BX1103,Pelham Gardens,Bronx,110.80000000000001,0.019,Low-Low,Not significant,2022,log rates
+BX1201,Williamsbridge-Olinville,Bronx,68.45,0.183,Low-Low,Not significant,2022,log rates
+BX1202,Eastchester-Edenwald-Baychester,Bronx,102.1,0.065,Low-Low,Not significant,2022,log rates
+BX1203,Wakefield-Woodlawn,Bronx,73.65,0.133,Low-Low,Not significant,2022,log rates
+MN0101,Financial District-Battery Park City,Manhattan,257.2,0.005,High-High,High-High,2022,log rates
+MN0102,Tribeca-Civic Center,Manhattan,306.625,0.018,High-High,Not significant,2022,log rates
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,182.15,0.001,High-High,High-High,2022,log rates
+MN0202,Greenwich Village,Manhattan,238.35,0.001,High-High,High-High,2022,log rates
+MN0203,West Village,Manhattan,268.275,0.002,High-High,High-High,2022,log rates
+MN0301,Chinatown-Two Bridges,Manhattan,147.9,0.001,High-High,High-High,2022,log rates
+MN0302,Lower East Side,Manhattan,193.14999999999998,0.025,High-High,Not significant,2022,log rates
+MN0303,East Village,Manhattan,194.14999999999998,0.007,High-High,High-High,2022,log rates
+MN0401,Chelsea-Hudson Yards,Manhattan,211.6,0.001,High-High,High-High,2022,log rates
+MN0402,Hell's Kitchen,Manhattan,182.375,0.001,High-High,High-High,2022,log rates
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,222.85,0.001,High-High,High-High,2022,log rates
+MN0502,Midtown-Times Square,Manhattan,274.575,0.001,High-High,High-High,2022,log rates
+MN0602,Gramercy,Manhattan,223.8,0.001,High-High,High-High,2022,log rates
+MN0603,Murray Hill-Kips Bay,Manhattan,200.64999999999998,0.001,High-High,High-High,2022,log rates
+MN0604,East Midtown-Turtle Bay,Manhattan,284.2,0.001,High-High,High-High,2022,log rates
+MN0701,Upper West Side-Lincoln Square,Manhattan,230.55,0.076,High-High,Not significant,2022,log rates
+MN0702,Upper West Side (Central),Manhattan,167.6,0.172,High-High,Not significant,2022,log rates
+MN0703,Upper West Side-Manhattan Valley,Manhattan,104.25,0.408,Low-High,Not significant,2022,log rates
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,174.64999999999998,0.003,High-High,High-High,2022,log rates
+MN0802,Upper East Side-Carnegie Hill,Manhattan,213.8,0.002,High-High,High-High,2022,log rates
+MN0803,Upper East Side-Yorkville,Manhattan,168.625,0.11,High-High,Not significant,2022,log rates
+MN0901,Morningside Heights,Manhattan,91.2,0.44,Low-Low,Not significant,2022,log rates
+MN0902,Manhattanville-West Harlem,Manhattan,109.05,0.272,Low-Low,Not significant,2022,log rates
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,88.47500000000001,0.296,Low-Low,Not significant,2022,log rates
+MN1001,Harlem (South),Manhattan,117.925,0.384,High-Low,Not significant,2022,log rates
+MN1002,Harlem (North),Manhattan,112.575,0.292,Low-Low,Not significant,2022,log rates
+MN1101,East Harlem (South),Manhattan,100.69999999999999,0.076,Low-High,Not significant,2022,log rates
+MN1102,East Harlem (North),Manhattan,125.94999999999999,0.425,High-Low,Not significant,2022,log rates
+MN1201,Washington Heights (South),Manhattan,85.225,0.206,Low-Low,Not significant,2022,log rates
+MN1202,Washington Heights (North),Manhattan,91.80000000000001,0.082,Low-Low,Not significant,2022,log rates
+MN1203,Inwood,Manhattan,72.275,0.288,Low-Low,Not significant,2022,log rates
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,73.42500000000001,0.091,Low-Low,Not significant,2022,log rates
+QN0102,Old Astoria-Hallets Point,Queens,121.9,0.355,High-High,Not significant,2022,log rates
+QN0103,Astoria (Central),Queens,93.825,0.354,Low-Low,Not significant,2022,log rates
+QN0104,Astoria (East)-Woodside (North),Queens,82.55,0.08,Low-Low,Not significant,2022,log rates
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,174.55,0.472,High-Low,Not significant,2022,log rates
+QN0201,Long Island City-Hunters Point,Queens,168.2,0.024,High-High,Not significant,2022,log rates
+QN0202,Sunnyside,Queens,60.3,0.036,Low-Low,Not significant,2022,log rates
+QN0203,Woodside,Queens,61.55,0.001,Low-Low,Low-Low,2022,log rates
+QN0301,Jackson Heights,Queens,82.1,0.001,Low-Low,Low-Low,2022,log rates
+QN0302,East Elmhurst,Queens,89.1,0.207,Low-Low,Not significant,2022,log rates
+QN0401,Elmhurst,Queens,48.2,0.063,Low-Low,Not significant,2022,log rates
+QN0402,Corona,Queens,80.15,0.194,Low-Low,Not significant,2022,log rates
+QN0502,Ridgewood,Queens,107.25,0.422,Low-Low,Not significant,2022,log rates
+QN0503,Glendale,Queens,127.85,0.279,High-High,Not significant,2022,log rates
+QN0601,Rego Park,Queens,138.125,0.155,High-Low,Not significant,2022,log rates
+QN0602,Forest Hills,Queens,162.1,0.41,High-Low,Not significant,2022,log rates
+QN0704,Murray Hill-Broadway Flushing,Queens,77.5,0.066,Low-Low,Not significant,2022,log rates
+QN0705,East Flushing,Queens,67.25,0.05,Low-Low,Not significant,2022,log rates
+QN0706,Queensboro Hill,Queens,79.525,0.014,Low-Low,Not significant,2022,log rates
+QN0707,Flushing-Willets Point,Queens,85.95,0.027,Low-Low,Not significant,2022,log rates
+QN0802,Pomonok-Electchester-Hillcrest,Queens,56.9,0.279,Low-Low,Not significant,2022,log rates
+QN0805,Jamaica Hills-Briarwood,Queens,119.45,0.189,High-Low,Not significant,2022,log rates
+QN0901,Kew Gardens,Queens,101.4,0.193,Low-High,Not significant,2022,log rates
+QN0905,Woodhaven,Queens,72.1,0.188,Low-Low,Not significant,2022,log rates
+QN1001,South Ozone Park,Queens,98.2,0.311,Low-High,Not significant,2022,log rates
+QN1201,Jamaica,Queens,150.9,0.292,High-Low,Not significant,2022,log rates
+QN1202,South Jamaica,Queens,111.0,0.323,Low-Low,Not significant,2022,log rates
+QN1203,Baisley Park,Queens,90.15,0.346,Low-Low,Not significant,2022,log rates
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,80.0,0.469,Low-Low,Not significant,2022,log rates
+QN1205,St. Albans,Queens,94.0,0.311,Low-Low,Not significant,2022,log rates
+QN1306,Springfield Gardens (South)-Brookville,Queens,175.2,0.271,High-Low,Not significant,2022,log rates
+QN1307,Rosedale,Queens,149.0,0.183,High-High,Not significant,2022,log rates
+QN1401,Far Rockaway-Bayswater,Queens,103.75,0.176,Low-High,Not significant,2022,log rates
+QN1402,Rockaway Beach-Arverne-Edgemere,Queens,175.25,0.224,High-High,Not significant,2022,log rates
+QN1403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,199.5,0.172,High-High,Not significant,2022,log rates
+SI0101,St. George-New Brighton,Staten Island,127.875,0.17,High-Low,Not significant,2022,log rates
+SI0102,Tompkinsville-Stapleton-Clifton-Fox Hills,Staten Island,96.25,0.324,Low-Low,Not significant,2022,log rates
+SI0104,West New Brighton-Silver Lake-Grymes Hill,Staten Island,80.2,0.431,Low-Low,Not significant,2022,log rates
+BK0101,Greenpoint,Brooklyn,191.65,0.046,High-High,Not significant,2023,log rates
+BK0102,Williamsburg,Brooklyn,194.64999999999998,0.025,High-High,Not significant,2023,log rates
+BK0103,South Williamsburg,Brooklyn,163.0,0.116,High-High,Not significant,2023,log rates
+BK0104,East Williamsburg,Brooklyn,181.79999999999998,0.098,High-High,Not significant,2023,log rates
+BK0201,Brooklyn Heights,Brooklyn,189.02499999999998,0.037,High-High,Not significant,2023,log rates
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,152.52499999999998,0.002,High-High,High-High,2023,log rates
+BK0203,Fort Greene,Brooklyn,177.10000000000002,0.098,High-High,Not significant,2023,log rates
+BK0204,Clinton Hill,Brooklyn,156.875,0.244,High-High,Not significant,2023,log rates
+BK0301,Bedford-Stuyvesant (West),Brooklyn,126.525,0.303,High-High,Not significant,2023,log rates
+BK0302,Bedford-Stuyvesant (East),Brooklyn,119.35,0.28,Low-Low,Not significant,2023,log rates
+BK0401,Bushwick (West),Brooklyn,109.95,0.353,Low-High,Not significant,2023,log rates
+BK0402,Bushwick (East),Brooklyn,94.2,0.129,Low-Low,Not significant,2023,log rates
+BK0501,Cypress Hills,Brooklyn,83.15,0.008,Low-Low,Not significant,2023,log rates
+BK0502,East New York (North),Brooklyn,68.02499999999999,0.12,Low-Low,Not significant,2023,log rates
+BK0503,East New York-New Lots,Brooklyn,160.5,0.07,High-Low,Not significant,2023,log rates
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,191.52499999999998,0.297,High-High,Not significant,2023,log rates
+BK0602,Park Slope,Brooklyn,188.05,0.211,High-High,Not significant,2023,log rates
+BK0701,Windsor Terrace-South Slope,Brooklyn,148.65,0.467,High-High,Not significant,2023,log rates
+BK0702,Sunset Park (West),Brooklyn,95.3,0.486,Low-High,Not significant,2023,log rates
+BK0703,Sunset Park (Central),Brooklyn,74.6,0.294,Low-Low,Not significant,2023,log rates
+BK0801,Prospect Heights,Brooklyn,126.80000000000001,0.148,High-High,Not significant,2023,log rates
+BK0802,Crown Heights (North),Brooklyn,116.7,0.342,Low-Low,Not significant,2023,log rates
+BK0901,Crown Heights (South),Brooklyn,125.87500000000001,0.253,High-Low,Not significant,2023,log rates
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,108.85,0.446,Low-Low,Not significant,2023,log rates
+BK1001,Bay Ridge,Brooklyn,109.42500000000001,0.11,Low-Low,Not significant,2023,log rates
+BK1203,Kensington,Brooklyn,108.0,0.396,Low-High,Not significant,2023,log rates
+BK1303,Brighton Beach,Brooklyn,93.35,0.221,Low-Low,Not significant,2023,log rates
+BK1401,Flatbush,Brooklyn,142.95,0.161,High-Low,Not significant,2023,log rates
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,125.55,0.343,High-Low,Not significant,2023,log rates
+BK1403,Midwood,Brooklyn,70.0,0.431,Low-Low,Not significant,2023,log rates
+BK1502,Madison,Brooklyn,119.8,0.056,Low-Low,Not significant,2023,log rates
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,88.0,0.335,Low-Low,Not significant,2023,log rates
+BK1601,Ocean Hill,Brooklyn,71.2,0.052,Low-Low,Not significant,2023,log rates
+BK1602,Brownsville,Brooklyn,90.80000000000001,0.122,Low-Low,Not significant,2023,log rates
+BK1701,East Flatbush-Erasmus,Brooklyn,124.6,0.35,High-Low,Not significant,2023,log rates
+BK1702,East Flatbush-Farragut,Brooklyn,114.6,0.319,Low-Low,Not significant,2023,log rates
+BK1703,East Flatbush-Rugby,Brooklyn,89.19999999999999,0.255,Low-Low,Not significant,2023,log rates
+BK1704,East Flatbush-Remsen Village,Brooklyn,102.3,0.301,Low-Low,Not significant,2023,log rates
+BK1801,Flatlands,Brooklyn,90.8,0.162,Low-Low,Not significant,2023,log rates
+BK1803,Canarsie,Brooklyn,99.2,0.277,Low-Low,Not significant,2023,log rates
+BX0101,Mott Haven-Port Morris,Bronx,85.4,0.36,Low-Low,Not significant,2023,log rates
+BX0301,Morrisania,Bronx,172.25,0.349,High-Low,Not significant,2023,log rates
+BX0401,Concourse-Concourse Village,Bronx,97.4,0.259,Low-Low,Not significant,2023,log rates
+BX0402,Highbridge,Bronx,76.15,0.146,Low-Low,Not significant,2023,log rates
+BX0501,University Heights (South)-Morris Heights,Bronx,81.45,0.007,Low-Low,Low-Low,2023,log rates
+BX0503,Fordham Heights,Bronx,45.375,0.161,Low-Low,Not significant,2023,log rates
+BX1101,Pelham Parkway-Van Nest,Bronx,96.775,0.019,Low-Low,Not significant,2023,log rates
+BX1102,Morris Park,Bronx,57.1,0.34,Low-Low,Not significant,2023,log rates
+BX1201,Williamsbridge-Olinville,Bronx,74.55000000000001,0.416,Low-Low,Not significant,2023,log rates
+BX1202,Eastchester-Edenwald-Baychester,Bronx,101.25,0.113,Low-Low,Not significant,2023,log rates
+MN0101,Financial District-Battery Park City,Manhattan,248.6,0.019,High-High,Not significant,2023,log rates
+MN0102,Tribeca-Civic Center,Manhattan,297.95,0.022,High-High,Not significant,2023,log rates
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,206.15,0.001,High-High,High-High,2023,log rates
+MN0202,Greenwich Village,Manhattan,326.1,0.001,High-High,High-High,2023,log rates
+MN0203,West Village,Manhattan,258.275,0.001,High-High,High-High,2023,log rates
+MN0301,Chinatown-Two Bridges,Manhattan,162.025,0.001,High-High,High-High,2023,log rates
+MN0302,Lower East Side,Manhattan,209.875,0.035,High-High,Not significant,2023,log rates
+MN0303,East Village,Manhattan,201.25,0.003,High-High,High-High,2023,log rates
+MN0401,Chelsea-Hudson Yards,Manhattan,217.875,0.001,High-High,High-High,2023,log rates
+MN0402,Hell's Kitchen,Manhattan,193.35,0.003,High-High,High-High,2023,log rates
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,230.3,0.001,High-High,High-High,2023,log rates
+MN0502,Midtown-Times Square,Manhattan,280.125,0.001,High-High,High-High,2023,log rates
+MN0602,Gramercy,Manhattan,225.14999999999998,0.002,High-High,High-High,2023,log rates
+MN0603,Murray Hill-Kips Bay,Manhattan,192.95,0.001,High-High,High-High,2023,log rates
+MN0604,East Midtown-Turtle Bay,Manhattan,278.25,0.001,High-High,High-High,2023,log rates
+MN0701,Upper West Side-Lincoln Square,Manhattan,233.85,0.1,High-High,Not significant,2023,log rates
+MN0702,Upper West Side (Central),Manhattan,169.55,0.134,High-High,Not significant,2023,log rates
+MN0703,Upper West Side-Manhattan Valley,Manhattan,127.85,0.246,High-High,Not significant,2023,log rates
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,184.65,0.005,High-High,High-High,2023,log rates
+MN0802,Upper East Side-Carnegie Hill,Manhattan,238.375,0.005,High-High,High-High,2023,log rates
+MN0803,Upper East Side-Yorkville,Manhattan,159.5,0.095,High-High,Not significant,2023,log rates
+MN0901,Morningside Heights,Manhattan,135.35000000000002,0.44,High-Low,Not significant,2023,log rates
+MN0902,Manhattanville-West Harlem,Manhattan,97.4,0.44,Low-Low,Not significant,2023,log rates
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,93.55,0.267,Low-Low,Not significant,2023,log rates
+MN1001,Harlem (South),Manhattan,132.14999999999998,0.482,High-High,Not significant,2023,log rates
+MN1002,Harlem (North),Manhattan,115.4,0.386,Low-Low,Not significant,2023,log rates
+MN1101,East Harlem (South),Manhattan,106.72500000000001,0.078,Low-High,Not significant,2023,log rates
+MN1102,East Harlem (North),Manhattan,137.6,0.43,High-Low,Not significant,2023,log rates
+MN1201,Washington Heights (South),Manhattan,100.5,0.2,Low-Low,Not significant,2023,log rates
+MN1202,Washington Heights (North),Manhattan,92.175,0.096,Low-Low,Not significant,2023,log rates
+MN1203,Inwood,Manhattan,65.75,0.278,Low-Low,Not significant,2023,log rates
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,83.375,0.192,Low-Low,Not significant,2023,log rates
+QN0102,Old Astoria-Hallets Point,Queens,97.575,0.369,Low-High,Not significant,2023,log rates
+QN0103,Astoria (Central),Queens,97.5,0.29,Low-Low,Not significant,2023,log rates
+QN0104,Astoria (East)-Woodside (North),Queens,87.25,0.183,Low-Low,Not significant,2023,log rates
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,193.15,0.34,High-Low,Not significant,2023,log rates
+QN0201,Long Island City-Hunters Point,Queens,179.4,0.037,High-High,Not significant,2023,log rates
+QN0202,Sunnyside,Queens,68.92500000000001,0.043,Low-Low,Not significant,2023,log rates
+QN0203,Woodside,Queens,64.9,0.007,Low-Low,Low-Low,2023,log rates
+QN0301,Jackson Heights,Queens,110.1,0.002,Low-Low,Low-Low,2023,log rates
+QN0302,East Elmhurst,Queens,91.4,0.498,Low-Low,Not significant,2023,log rates
+QN0401,Elmhurst,Queens,42.325,0.13,Low-Low,Not significant,2023,log rates
+QN0402,Corona,Queens,83.65,0.244,Low-Low,Not significant,2023,log rates
+QN0502,Ridgewood,Queens,120.35,0.328,Low-Low,Not significant,2023,log rates
+QN0503,Glendale,Queens,127.9,0.23,High-High,Not significant,2023,log rates
+QN0601,Rego Park,Queens,150.45,0.119,High-Low,Not significant,2023,log rates
+QN0602,Forest Hills,Queens,179.5,0.319,High-Low,Not significant,2023,log rates
+QN0704,Murray Hill-Broadway Flushing,Queens,76.3,0.067,Low-Low,Not significant,2023,log rates
+QN0705,East Flushing,Queens,67.95,0.037,Low-Low,Not significant,2023,log rates
+QN0706,Queensboro Hill,Queens,75.4,0.013,Low-Low,Not significant,2023,log rates
+QN0707,Flushing-Willets Point,Queens,92.15,0.013,Low-Low,Not significant,2023,log rates
+QN0802,Pomonok-Electchester-Hillcrest,Queens,63.95,0.21,Low-Low,Not significant,2023,log rates
+QN0805,Jamaica Hills-Briarwood,Queens,119.1,0.168,Low-Low,Not significant,2023,log rates
+QN0901,Kew Gardens,Queens,90.5,0.233,Low-High,Not significant,2023,log rates
+QN0905,Woodhaven,Queens,73.19999999999999,0.16,Low-Low,Not significant,2023,log rates
+QN1001,South Ozone Park,Queens,86.94999999999999,0.36,Low-High,Not significant,2023,log rates
+QN1201,Jamaica,Queens,150.3,0.229,High-Low,Not significant,2023,log rates
+QN1202,South Jamaica,Queens,147.0,0.231,High-Low,Not significant,2023,log rates
+QN1203,Baisley Park,Queens,91.7,0.265,Low-Low,Not significant,2023,log rates
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,77.925,0.339,Low-Low,Not significant,2023,log rates
+QN1205,St. Albans,Queens,97.75,0.338,Low-Low,Not significant,2023,log rates
+QN1306,Springfield Gardens (South)-Brookville,Queens,153.2,0.168,High-Low,Not significant,2023,log rates
+QN1307,Rosedale,Queens,156.4,0.302,High-High,Not significant,2023,log rates
+QN1401,Far Rockaway-Bayswater,Queens,106.2,0.282,Low-High,Not significant,2023,log rates
+QN1402,Rockaway Beach-Arverne-Edgemere,Queens,160.2,0.235,High-High,Not significant,2023,log rates
+QN1403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,225.175,0.277,High-High,Not significant,2023,log rates
+SI0101,St. George-New Brighton,Staten Island,119.95,0.225,Low-Low,Not significant,2023,log rates
+SI0102,Tompkinsville-Stapleton-Clifton-Fox Hills,Staten Island,104.525,0.284,Low-Low,Not significant,2023,log rates
+SI0104,West New Brighton-Silver Lake-Grymes Hill,Staten Island,87.5,0.405,Low-Low,Not significant,2023,log rates
+BK0101,Greenpoint,Brooklyn,185.6,0.042,High-High,Not significant,2024,log rates
+BK0102,Williamsburg,Brooklyn,199.6,0.052,High-High,Not significant,2024,log rates
+BK0103,South Williamsburg,Brooklyn,183.60000000000002,0.195,High-High,Not significant,2024,log rates
+BK0104,East Williamsburg,Brooklyn,180.3,0.13,High-High,Not significant,2024,log rates
+BK0201,Brooklyn Heights,Brooklyn,168.625,0.031,High-High,Not significant,2024,log rates
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,176.9,0.014,High-High,Not significant,2024,log rates
+BK0203,Fort Greene,Brooklyn,163.525,0.106,High-High,Not significant,2024,log rates
+BK0204,Clinton Hill,Brooklyn,152.5,0.219,High-High,Not significant,2024,log rates
+BK0301,Bedford-Stuyvesant (West),Brooklyn,136.2,0.271,High-High,Not significant,2024,log rates
+BK0302,Bedford-Stuyvesant (East),Brooklyn,120.92500000000001,0.417,Low-Low,Not significant,2024,log rates
+BK0401,Bushwick (West),Brooklyn,108.89999999999999,0.376,Low-High,Not significant,2024,log rates
+BK0402,Bushwick (East),Brooklyn,118.525,0.07,Low-Low,Not significant,2024,log rates
+BK0501,Cypress Hills,Brooklyn,76.6,0.059,Low-Low,Not significant,2024,log rates
+BK0502,East New York (North),Brooklyn,91.44999999999999,0.143,Low-Low,Not significant,2024,log rates
+BK0503,East New York-New Lots,Brooklyn,190.475,0.124,High-Low,Not significant,2024,log rates
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,200.6,0.266,High-High,Not significant,2024,log rates
+BK0602,Park Slope,Brooklyn,183.575,0.278,High-High,Not significant,2024,log rates
+BK0701,Windsor Terrace-South Slope,Brooklyn,153.5,0.346,High-High,Not significant,2024,log rates
+BK0702,Sunset Park (West),Brooklyn,124.62500000000001,0.106,Low-High,Not significant,2024,log rates
+BK0801,Prospect Heights,Brooklyn,141.4,0.224,High-High,Not significant,2024,log rates
+BK0802,Crown Heights (North),Brooklyn,142.325,0.31,High-Low,Not significant,2024,log rates
+BK0901,Crown Heights (South),Brooklyn,122.4,0.312,Low-Low,Not significant,2024,log rates
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,111.45,0.303,Low-Low,Not significant,2024,log rates
+BK1001,Bay Ridge,Brooklyn,183.4,0.47,High-Low,Not significant,2024,log rates
+BK1203,Kensington,Brooklyn,113.725,0.29,Low-High,Not significant,2024,log rates
+BK1303,Brighton Beach,Brooklyn,99.95,0.13,Low-Low,Not significant,2024,log rates
+BK1401,Flatbush,Brooklyn,139.6,0.311,High-Low,Not significant,2024,log rates
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,156.2,0.454,High-High,Not significant,2024,log rates
+BK1502,Madison,Brooklyn,131.875,0.272,High-Low,Not significant,2024,log rates
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,80.42500000000001,0.321,Low-Low,Not significant,2024,log rates
+BK1601,Ocean Hill,Brooklyn,84.925,0.098,Low-Low,Not significant,2024,log rates
+BK1602,Brownsville,Brooklyn,101.1,0.318,Low-Low,Not significant,2024,log rates
+BK1701,East Flatbush-Erasmus,Brooklyn,122.4,0.252,Low-Low,Not significant,2024,log rates
+BK1702,East Flatbush-Farragut,Brooklyn,117.2,0.204,Low-Low,Not significant,2024,log rates
+BK1703,East Flatbush-Rugby,Brooklyn,90.92500000000001,0.169,Low-Low,Not significant,2024,log rates
+BK1704,East Flatbush-Remsen Village,Brooklyn,117.05,0.287,Low-Low,Not significant,2024,log rates
+BK1801,Flatlands,Brooklyn,96.19999999999999,0.397,Low-Low,Not significant,2024,log rates
+BK1802,Marine Park-Mill Basin-Bergen Beach,Brooklyn,188.7,0.215,High-Low,Not significant,2024,log rates
+BK1803,Canarsie,Brooklyn,105.6,0.482,Low-High,Not significant,2024,log rates
+BX0101,Mott Haven-Port Morris,Bronx,142.7,0.206,High-Low,Not significant,2024,log rates
+BX0301,Morrisania,Bronx,168.275,0.206,High-Low,Not significant,2024,log rates
+BX0401,Concourse-Concourse Village,Bronx,92.4,0.364,Low-Low,Not significant,2024,log rates
+BX0402,Highbridge,Bronx,73.95,0.038,Low-Low,Not significant,2024,log rates
+BX0501,University Heights (South)-Morris Heights,Bronx,65.275,0.003,Low-Low,Low-Low,2024,log rates
+BX0503,Fordham Heights,Bronx,45.599999999999994,0.045,Low-Low,Not significant,2024,log rates
+BX1101,Pelham Parkway-Van Nest,Bronx,112.775,0.028,Low-Low,Not significant,2024,log rates
+BX1102,Morris Park,Bronx,60.15,0.365,Low-Low,Not significant,2024,log rates
+BX1201,Williamsbridge-Olinville,Bronx,56.7,0.24,Low-Low,Not significant,2024,log rates
+BX1202,Eastchester-Edenwald-Baychester,Bronx,94.8,0.033,Low-Low,Not significant,2024,log rates
+MN0101,Financial District-Battery Park City,Manhattan,234.625,0.042,High-High,Not significant,2024,log rates
+MN0102,Tribeca-Civic Center,Manhattan,258.5,0.026,High-High,Not significant,2024,log rates
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,233.025,0.001,High-High,High-High,2024,log rates
+MN0202,Greenwich Village,Manhattan,307.5,0.001,High-High,High-High,2024,log rates
+MN0203,West Village,Manhattan,245.79999999999998,0.001,High-High,High-High,2024,log rates
+MN0301,Chinatown-Two Bridges,Manhattan,162.25,0.001,High-High,High-High,2024,log rates
+MN0302,Lower East Side,Manhattan,207.375,0.041,High-High,Not significant,2024,log rates
+MN0303,East Village,Manhattan,194.55,0.007,High-High,High-High,2024,log rates
+MN0401,Chelsea-Hudson Yards,Manhattan,214.4,0.001,High-High,High-High,2024,log rates
+MN0402,Hell's Kitchen,Manhattan,221.425,0.005,High-High,High-High,2024,log rates
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,284.25,0.001,High-High,High-High,2024,log rates
+MN0502,Midtown-Times Square,Manhattan,329.025,0.001,High-High,High-High,2024,log rates
+MN0602,Gramercy,Manhattan,201.025,0.002,High-High,High-High,2024,log rates
+MN0603,Murray Hill-Kips Bay,Manhattan,205.9,0.001,High-High,High-High,2024,log rates
+MN0604,East Midtown-Turtle Bay,Manhattan,291.8,0.002,High-High,High-High,2024,log rates
+MN0701,Upper West Side-Lincoln Square,Manhattan,212.9,0.066,High-High,Not significant,2024,log rates
+MN0702,Upper West Side (Central),Manhattan,191.2,0.2,High-High,Not significant,2024,log rates
+MN0703,Upper West Side-Manhattan Valley,Manhattan,132.10000000000002,0.042,High-High,Not significant,2024,log rates
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,182.1,0.005,High-High,High-High,2024,log rates
+MN0802,Upper East Side-Carnegie Hill,Manhattan,252.75,0.011,High-High,Not significant,2024,log rates
+MN0803,Upper East Side-Yorkville,Manhattan,173.1,0.122,High-High,Not significant,2024,log rates
+MN0901,Morningside Heights,Manhattan,250.25,0.393,High-Low,Not significant,2024,log rates
+MN0902,Manhattanville-West Harlem,Manhattan,100.2,0.395,Low-High,Not significant,2024,log rates
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,87.15,0.175,Low-Low,Not significant,2024,log rates
+MN1001,Harlem (South),Manhattan,129.6,0.33,Low-High,Not significant,2024,log rates
+MN1002,Harlem (North),Manhattan,127.1,0.475,Low-Low,Not significant,2024,log rates
+MN1101,East Harlem (South),Manhattan,113.4,0.106,Low-High,Not significant,2024,log rates
+MN1102,East Harlem (North),Manhattan,122.175,0.401,Low-Low,Not significant,2024,log rates
+MN1201,Washington Heights (South),Manhattan,92.25,0.083,Low-Low,Not significant,2024,log rates
+MN1202,Washington Heights (North),Manhattan,84.65,0.049,Low-Low,Not significant,2024,log rates
+MN1203,Inwood,Manhattan,67.975,0.135,Low-Low,Not significant,2024,log rates
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,107.4,0.132,Low-Low,Not significant,2024,log rates
+QN0102,Old Astoria-Hallets Point,Queens,63.8,0.364,Low-High,Not significant,2024,log rates
+QN0103,Astoria (Central),Queens,114.7,0.102,Low-Low,Not significant,2024,log rates
+QN0104,Astoria (East)-Woodside (North),Queens,78.8,0.157,Low-Low,Not significant,2024,log rates
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,183.6,0.122,High-Low,Not significant,2024,log rates
+QN0201,Long Island City-Hunters Point,Queens,191.27499999999998,0.058,High-High,Not significant,2024,log rates
+QN0202,Sunnyside,Queens,75.35,0.033,Low-Low,Not significant,2024,log rates
+QN0203,Woodside,Queens,60.175000000000004,0.002,Low-Low,Low-Low,2024,log rates
+QN0301,Jackson Heights,Queens,108.0,0.002,Low-Low,Low-Low,2024,log rates
+QN0302,East Elmhurst,Queens,95.35,0.355,Low-Low,Not significant,2024,log rates
+QN0401,Elmhurst,Queens,44.65,0.02,Low-Low,Not significant,2024,log rates
+QN0402,Corona,Queens,94.975,0.04,Low-Low,Not significant,2024,log rates
+QN0501,Maspeth,Queens,91.275,0.002,Low-Low,Low-Low,2024,log rates
+QN0502,Ridgewood,Queens,113.0,0.218,Low-Low,Not significant,2024,log rates
+QN0503,Glendale,Queens,132.85,0.429,High-Low,Not significant,2024,log rates
+QN0602,Forest Hills,Queens,140.25,0.304,High-Low,Not significant,2024,log rates
+QN0701,College Point,Queens,208.7,0.148,High-Low,Not significant,2024,log rates
+QN0704,Murray Hill-Broadway Flushing,Queens,89.15,0.421,Low-Low,Not significant,2024,log rates
+QN0705,East Flushing,Queens,94.65,0.043,Low-Low,Not significant,2024,log rates
+QN0706,Queensboro Hill,Queens,75.15,0.04,Low-Low,Not significant,2024,log rates
+QN0707,Flushing-Willets Point,Queens,101.075,0.172,Low-Low,Not significant,2024,log rates
+QN0802,Pomonok-Electchester-Hillcrest,Queens,68.875,0.267,Low-Low,Not significant,2024,log rates
+QN0805,Jamaica Hills-Briarwood,Queens,159.39999999999998,0.154,High-Low,Not significant,2024,log rates
+QN0902,Richmond Hill,Queens,98.85,0.403,Low-Low,Not significant,2024,log rates
+QN0904,Ozone Park (North),Queens,139.5,0.064,High-Low,Not significant,2024,log rates
+QN0905,Woodhaven,Queens,69.45,0.138,Low-Low,Not significant,2024,log rates
+QN1001,South Ozone Park,Queens,160.10000000000002,0.309,High-High,Not significant,2024,log rates
+QN1201,Jamaica,Queens,156.4,0.479,High-High,Not significant,2024,log rates
+QN1202,South Jamaica,Queens,152.8,0.478,High-Low,Not significant,2024,log rates
+QN1203,Baisley Park,Queens,106.725,0.477,Low-Low,Not significant,2024,log rates
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,86.8,0.373,Low-Low,Not significant,2024,log rates
+QN1205,St. Albans,Queens,102.17500000000001,0.371,Low-Low,Not significant,2024,log rates
+QN1306,Springfield Gardens (South)-Brookville,Queens,167.55,0.394,High-Low,Not significant,2024,log rates
+QN1307,Rosedale,Queens,154.925,0.301,High-High,Not significant,2024,log rates
+QN1401,Far Rockaway-Bayswater,Queens,142.575,0.359,High-High,Not significant,2024,log rates
+QN1402,Rockaway Beach-Arverne-Edgemere,Queens,156.04999999999998,0.14,High-High,Not significant,2024,log rates
+QN1403,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Queens,231.75,0.349,High-High,Not significant,2024,log rates
+SI0101,St. George-New Brighton,Staten Island,120.75,0.257,Low-Low,Not significant,2024,log rates
+SI0102,Tompkinsville-Stapleton-Clifton-Fox Hills,Staten Island,125.35,0.236,Low-Low,Not significant,2024,log rates
+SI0104,West New Brighton-Silver Lake-Grymes Hill,Staten Island,92.6,0.398,Low-Low,Not significant,2024,log rates
+BK0101,Greenpoint,Brooklyn,201.4,0.075,High-High,Not significant,2025,log rates
+BK0102,Williamsburg,Brooklyn,193.35,0.084,High-High,Not significant,2025,log rates
+BK0104,East Williamsburg,Brooklyn,218.425,0.32,High-High,Not significant,2025,log rates
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,205.5,0.014,High-High,Not significant,2025,log rates
+BK0203,Fort Greene,Brooklyn,173.45,0.182,High-High,Not significant,2025,log rates
+BK0204,Clinton Hill,Brooklyn,168.29999999999998,0.46,High-High,Not significant,2025,log rates
+BK0301,Bedford-Stuyvesant (West),Brooklyn,147.75,0.387,High-Low,Not significant,2025,log rates
+BK0302,Bedford-Stuyvesant (East),Brooklyn,109.5,0.384,Low-Low,Not significant,2025,log rates
+BK0401,Bushwick (West),Brooklyn,111.0,0.285,Low-Low,Not significant,2025,log rates
+BK0402,Bushwick (East),Brooklyn,126.5,0.027,Low-Low,Not significant,2025,log rates
+BK0501,Cypress Hills,Brooklyn,60.4,0.232,Low-Low,Not significant,2025,log rates
+BK0502,East New York (North),Brooklyn,107.85,0.207,Low-Low,Not significant,2025,log rates
+BK0503,East New York-New Lots,Brooklyn,201.975,0.201,High-Low,Not significant,2025,log rates
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,217.2,0.362,High-High,Not significant,2025,log rates
+BK0602,Park Slope,Brooklyn,205.52499999999998,0.415,High-High,Not significant,2025,log rates
+BK0701,Windsor Terrace-South Slope,Brooklyn,156.0,0.325,High-High,Not significant,2025,log rates
+BK0702,Sunset Park (West),Brooklyn,125.60000000000001,0.192,Low-High,Not significant,2025,log rates
+BK0801,Prospect Heights,Brooklyn,132.7,0.352,Low-High,Not significant,2025,log rates
+BK0802,Crown Heights (North),Brooklyn,146.6,0.27,High-Low,Not significant,2025,log rates
+BK0901,Crown Heights (South),Brooklyn,103.85,0.161,Low-Low,Not significant,2025,log rates
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,124.325,0.043,Low-Low,Not significant,2025,log rates
+BK1001,Bay Ridge,Brooklyn,173.85,0.419,High-Low,Not significant,2025,log rates
+BK1401,Flatbush,Brooklyn,135.6,0.172,Low-Low,Not significant,2025,log rates
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,168.325,0.491,High-High,Not significant,2025,log rates
+BK1502,Madison,Brooklyn,123.5,0.144,Low-Low,Not significant,2025,log rates
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,107.4,0.379,Low-Low,Not significant,2025,log rates
+BK1601,Ocean Hill,Brooklyn,171.77499999999998,0.026,High-Low,Not significant,2025,log rates
+BK1602,Brownsville,Brooklyn,106.9,0.442,Low-High,Not significant,2025,log rates
+BK1701,East Flatbush-Erasmus,Brooklyn,99.5,0.092,Low-Low,Not significant,2025,log rates
+BK1702,East Flatbush-Farragut,Brooklyn,123.725,0.045,Low-Low,Not significant,2025,log rates
+BK1703,East Flatbush-Rugby,Brooklyn,78.5,0.074,Low-Low,Not significant,2025,log rates
+BK1704,East Flatbush-Remsen Village,Brooklyn,141.6,0.127,Low-Low,Not significant,2025,log rates
+BK1801,Flatlands,Brooklyn,107.825,0.105,Low-Low,Not significant,2025,log rates
+BK1803,Canarsie,Brooklyn,132.15,0.238,Low-Low,Not significant,2025,log rates
+BX0101,Mott Haven-Port Morris,Bronx,224.85000000000002,0.171,High-Low,Not significant,2025,log rates
+BX0401,Concourse-Concourse Village,Bronx,99.3,0.115,Low-High,Not significant,2025,log rates
+MN0101,Financial District-Battery Park City,Manhattan,358.3,0.059,High-High,Not significant,2025,log rates
+MN0102,Tribeca-Civic Center,Manhattan,294.15,0.01,High-High,Not significant,2025,log rates
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,304.5,0.005,High-High,High-High,2025,log rates
+MN0202,Greenwich Village,Manhattan,300.54999999999995,0.002,High-High,High-High,2025,log rates
+MN0203,West Village,Manhattan,235.60000000000002,0.001,High-High,High-High,2025,log rates
+MN0301,Chinatown-Two Bridges,Manhattan,150.2,0.001,High-High,High-High,2025,log rates
+MN0302,Lower East Side,Manhattan,194.77499999999998,0.044,High-High,Not significant,2025,log rates
+MN0303,East Village,Manhattan,200.35,0.034,High-High,Not significant,2025,log rates
+MN0401,Chelsea-Hudson Yards,Manhattan,215.55,0.001,High-High,High-High,2025,log rates
+MN0402,Hell's Kitchen,Manhattan,233.85000000000002,0.008,High-High,Not significant,2025,log rates
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,331.65,0.002,High-High,High-High,2025,log rates
+MN0502,Midtown-Times Square,Manhattan,373.475,0.001,High-High,High-High,2025,log rates
+MN0602,Gramercy,Manhattan,194.575,0.002,High-High,High-High,2025,log rates
+MN0603,Murray Hill-Kips Bay,Manhattan,215.15,0.001,High-High,High-High,2025,log rates
+MN0604,East Midtown-Turtle Bay,Manhattan,273.6,0.006,High-High,High-High,2025,log rates
+MN0701,Upper West Side-Lincoln Square,Manhattan,216.0,0.08,High-High,Not significant,2025,log rates
+MN0702,Upper West Side (Central),Manhattan,208.25,0.128,High-High,Not significant,2025,log rates
+MN0703,Upper West Side-Manhattan Valley,Manhattan,193.2,0.381,High-Low,Not significant,2025,log rates
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,167.05,0.032,High-High,Not significant,2025,log rates
+MN0802,Upper East Side-Carnegie Hill,Manhattan,255.3,0.026,High-High,Not significant,2025,log rates
+MN0803,Upper East Side-Yorkville,Manhattan,169.55,0.241,High-High,Not significant,2025,log rates
+MN0901,Morningside Heights,Manhattan,82.55,0.358,Low-High,Not significant,2025,log rates
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,97.925,0.19,Low-Low,Not significant,2025,log rates
+MN1001,Harlem (South),Manhattan,153.89999999999998,0.046,High-Low,Not significant,2025,log rates
+MN1002,Harlem (North),Manhattan,138.8,0.026,Low-Low,Not significant,2025,log rates
+MN1101,East Harlem (South),Manhattan,122.75,0.333,Low-High,Not significant,2025,log rates
+MN1102,East Harlem (North),Manhattan,98.15,0.416,Low-Low,Not significant,2025,log rates
+MN1201,Washington Heights (South),Manhattan,88.10000000000001,0.099,Low-Low,Not significant,2025,log rates
+MN1202,Washington Heights (North),Manhattan,101.44999999999999,0.09,Low-Low,Not significant,2025,log rates
+MN1203,Inwood,Manhattan,109.17500000000001,0.201,Low-Low,Not significant,2025,log rates
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,86.55000000000001,0.049,Low-Low,Not significant,2025,log rates
+QN0103,Astoria (Central),Queens,115.425,0.09,Low-Low,Not significant,2025,log rates
+QN0104,Astoria (East)-Woodside (North),Queens,75.94999999999999,0.027,Low-Low,Not significant,2025,log rates
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,185.7,0.166,High-Low,Not significant,2025,log rates
+QN0201,Long Island City-Hunters Point,Queens,170.3,0.148,High-High,Not significant,2025,log rates
+QN0202,Sunnyside,Queens,79.1,0.028,Low-Low,Not significant,2025,log rates
+QN0203,Woodside,Queens,62.349999999999994,0.001,Low-Low,Low-Low,2025,log rates
+QN0301,Jackson Heights,Queens,111.325,0.001,Low-Low,Low-Low,2025,log rates
+QN0302,East Elmhurst,Queens,94.575,0.32,Low-Low,Not significant,2025,log rates
+QN0401,Elmhurst,Queens,47.2,0.005,Low-Low,Low-Low,2025,log rates
+QN0402,Corona,Queens,88.6,0.009,Low-Low,Not significant,2025,log rates
+QN0501,Maspeth,Queens,115.2,0.001,Low-Low,Low-Low,2025,log rates
+QN0502,Ridgewood,Queens,93.375,0.169,Low-Low,Not significant,2025,log rates
+QN0503,Glendale,Queens,133.325,0.118,Low-Low,Not significant,2025,log rates
+QN0602,Forest Hills,Queens,113.225,0.16,Low-Low,Not significant,2025,log rates
+QN0701,College Point,Queens,214.3,0.475,High-Low,Not significant,2025,log rates
+QN0705,East Flushing,Queens,92.6,0.463,Low-Low,Not significant,2025,log rates
+QN0707,Flushing-Willets Point,Queens,134.45,0.475,Low-Low,Not significant,2025,log rates
+QN0802,Pomonok-Electchester-Hillcrest,Queens,87.8,0.183,Low-High,Not significant,2025,log rates
+QN0805,Jamaica Hills-Briarwood,Queens,214.05,0.085,High-Low,Not significant,2025,log rates
+QN0905,Woodhaven,Queens,106.75,0.016,Low-Low,Not significant,2025,log rates
+QN1001,South Ozone Park,Queens,243.0,0.35,High-High,Not significant,2025,log rates
+QN1202,South Jamaica,Queens,196.75,0.472,High-High,Not significant,2025,log rates
+QN1203,Baisley Park,Queens,108.8,0.21,Low-High,Not significant,2025,log rates
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,130.55,0.381,Low-Low,Not significant,2025,log rates
+QN1205,St. Albans,Queens,120.44999999999999,0.439,Low-Low,Not significant,2025,log rates
+QN1306,Springfield Gardens (South)-Brookville,Queens,187.8,0.393,High-High,Not significant,2025,log rates
+QN1307,Rosedale,Queens,163.175,0.344,High-High,Not significant,2025,log rates
+BK0101,Greenpoint,Brooklyn,169.3,0.058,High-High,Not significant,2022,fixed 96-NTA set
+BK0102,Williamsburg,Brooklyn,192.125,0.095,High-High,Not significant,2022,fixed 96-NTA set
+BK0104,East Williamsburg,Brooklyn,163.89999999999998,0.237,High-High,Not significant,2022,fixed 96-NTA set
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,174.9,0.017,High-High,Not significant,2022,fixed 96-NTA set
+BK0203,Fort Greene,Brooklyn,179.1,0.185,High-High,Not significant,2022,fixed 96-NTA set
+BK0204,Clinton Hill,Brooklyn,155.0,0.493,High-Low,Not significant,2022,fixed 96-NTA set
+BK0301,Bedford-Stuyvesant (West),Brooklyn,117.4,0.34,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0302,Bedford-Stuyvesant (East),Brooklyn,90.5,0.133,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0401,Bushwick (West),Brooklyn,107.7,0.278,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0402,Bushwick (East),Brooklyn,97.7,0.044,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0501,Cypress Hills,Brooklyn,80.5,0.004,Low-Low,Low-Low,2022,fixed 96-NTA set
+BK0502,East New York (North),Brooklyn,67.05,0.146,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0503,East New York-New Lots,Brooklyn,157.3,0.058,High-Low,Not significant,2022,fixed 96-NTA set
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,190.2,0.454,High-Low,Not significant,2022,fixed 96-NTA set
+BK0602,Park Slope,Brooklyn,190.75,0.277,High-High,Not significant,2022,fixed 96-NTA set
+BK0701,Windsor Terrace-South Slope,Brooklyn,153.3,0.465,High-Low,Not significant,2022,fixed 96-NTA set
+BK0702,Sunset Park (West),Brooklyn,87.9,0.324,Low-High,Not significant,2022,fixed 96-NTA set
+BK0801,Prospect Heights,Brooklyn,116.7,0.282,Low-High,Not significant,2022,fixed 96-NTA set
+BK0802,Crown Heights (North),Brooklyn,119.15,0.158,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0901,Crown Heights (South),Brooklyn,118.1,0.158,Low-Low,Not significant,2022,fixed 96-NTA set
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,105.0,0.253,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1001,Bay Ridge,Brooklyn,95.075,0.237,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1401,Flatbush,Brooklyn,124.55,0.184,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,117.525,0.399,Low-High,Not significant,2022,fixed 96-NTA set
+BK1502,Madison,Brooklyn,125.15,0.137,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,86.05,0.403,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1601,Ocean Hill,Brooklyn,79.65,0.024,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1602,Brownsville,Brooklyn,90.4,0.136,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1701,East Flatbush-Erasmus,Brooklyn,119.25,0.206,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1702,East Flatbush-Farragut,Brooklyn,113.8,0.188,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1703,East Flatbush-Rugby,Brooklyn,88.75,0.12,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1704,East Flatbush-Remsen Village,Brooklyn,104.6,0.19,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1801,Flatlands,Brooklyn,91.0,0.185,Low-Low,Not significant,2022,fixed 96-NTA set
+BK1803,Canarsie,Brooklyn,95.55,0.237,Low-Low,Not significant,2022,fixed 96-NTA set
+BX0101,Mott Haven-Port Morris,Bronx,76.69999999999999,0.341,Low-Low,Not significant,2022,fixed 96-NTA set
+BX0401,Concourse-Concourse Village,Bronx,94.7,0.12,Low-Low,Not significant,2022,fixed 96-NTA set
+MN0101,Financial District-Battery Park City,Manhattan,257.2,0.016,High-High,Not significant,2022,fixed 96-NTA set
+MN0102,Tribeca-Civic Center,Manhattan,306.625,0.027,High-High,Not significant,2022,fixed 96-NTA set
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,182.15,0.001,High-High,High-High,2022,fixed 96-NTA set
+MN0202,Greenwich Village,Manhattan,238.35,0.001,High-High,High-High,2022,fixed 96-NTA set
+MN0203,West Village,Manhattan,268.275,0.011,High-High,Not significant,2022,fixed 96-NTA set
+MN0301,Chinatown-Two Bridges,Manhattan,147.9,0.006,High-High,Not significant,2022,fixed 96-NTA set
+MN0302,Lower East Side,Manhattan,193.14999999999998,0.082,High-High,Not significant,2022,fixed 96-NTA set
+MN0303,East Village,Manhattan,194.14999999999998,0.017,High-High,Not significant,2022,fixed 96-NTA set
+MN0401,Chelsea-Hudson Yards,Manhattan,211.6,0.001,High-High,High-High,2022,fixed 96-NTA set
+MN0402,Hell's Kitchen,Manhattan,182.375,0.005,High-High,High-High,2022,fixed 96-NTA set
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,222.85,0.001,High-High,High-High,2022,fixed 96-NTA set
+MN0502,Midtown-Times Square,Manhattan,274.575,0.001,High-High,High-High,2022,fixed 96-NTA set
+MN0602,Gramercy,Manhattan,223.8,0.011,High-High,Not significant,2022,fixed 96-NTA set
+MN0603,Murray Hill-Kips Bay,Manhattan,200.64999999999998,0.001,High-High,High-High,2022,fixed 96-NTA set
+MN0604,East Midtown-Turtle Bay,Manhattan,284.2,0.01,High-High,Not significant,2022,fixed 96-NTA set
+MN0701,Upper West Side-Lincoln Square,Manhattan,230.55,0.154,High-High,Not significant,2022,fixed 96-NTA set
+MN0702,Upper West Side (Central),Manhattan,167.6,0.197,High-High,Not significant,2022,fixed 96-NTA set
+MN0703,Upper West Side-Manhattan Valley,Manhattan,104.25,0.49,Low-Low,Not significant,2022,fixed 96-NTA set
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,174.64999999999998,0.014,High-High,Not significant,2022,fixed 96-NTA set
+MN0802,Upper East Side-Carnegie Hill,Manhattan,213.8,0.015,High-High,Not significant,2022,fixed 96-NTA set
+MN0803,Upper East Side-Yorkville,Manhattan,168.625,0.197,High-High,Not significant,2022,fixed 96-NTA set
+MN0901,Morningside Heights,Manhattan,91.2,0.283,Low-Low,Not significant,2022,fixed 96-NTA set
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,88.47500000000001,0.232,Low-Low,Not significant,2022,fixed 96-NTA set
+MN1001,Harlem (South),Manhattan,117.925,0.335,Low-Low,Not significant,2022,fixed 96-NTA set
+MN1002,Harlem (North),Manhattan,112.575,0.211,Low-Low,Not significant,2022,fixed 96-NTA set
+MN1101,East Harlem (South),Manhattan,100.69999999999999,0.152,Low-High,Not significant,2022,fixed 96-NTA set
+MN1102,East Harlem (North),Manhattan,125.94999999999999,0.273,Low-Low,Not significant,2022,fixed 96-NTA set
+MN1201,Washington Heights (South),Manhattan,85.225,0.15,Low-Low,Not significant,2022,fixed 96-NTA set
+MN1202,Washington Heights (North),Manhattan,91.80000000000001,0.049,Low-Low,Not significant,2022,fixed 96-NTA set
+MN1203,Inwood,Manhattan,72.275,0.307,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,73.42500000000001,0.069,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0103,Astoria (Central),Queens,93.825,0.269,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0104,Astoria (East)-Woodside (North),Queens,82.55,0.079,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,174.55,0.339,High-Low,Not significant,2022,fixed 96-NTA set
+QN0201,Long Island City-Hunters Point,Queens,168.2,0.074,High-High,Not significant,2022,fixed 96-NTA set
+QN0202,Sunnyside,Queens,60.3,0.042,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0203,Woodside,Queens,61.55,0.001,Low-Low,Low-Low,2022,fixed 96-NTA set
+QN0301,Jackson Heights,Queens,82.1,0.001,Low-Low,Low-Low,2022,fixed 96-NTA set
+QN0302,East Elmhurst,Queens,89.1,0.182,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0401,Elmhurst,Queens,48.2,0.008,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0402,Corona,Queens,80.15,0.159,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0502,Ridgewood,Queens,107.25,0.279,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0503,Glendale,Queens,127.85,0.456,Low-High,Not significant,2022,fixed 96-NTA set
+QN0602,Forest Hills,Queens,162.1,0.283,High-Low,Not significant,2022,fixed 96-NTA set
+QN0705,East Flushing,Queens,67.25,0.191,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0707,Flushing-Willets Point,Queens,85.95,0.075,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0802,Pomonok-Electchester-Hillcrest,Queens,56.9,0.433,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0805,Jamaica Hills-Briarwood,Queens,119.45,0.022,Low-Low,Not significant,2022,fixed 96-NTA set
+QN0905,Woodhaven,Queens,72.1,0.146,Low-Low,Not significant,2022,fixed 96-NTA set
+QN1001,South Ozone Park,Queens,98.2,0.433,Low-Low,Not significant,2022,fixed 96-NTA set
+QN1202,South Jamaica,Queens,111.0,0.121,Low-Low,Not significant,2022,fixed 96-NTA set
+QN1203,Baisley Park,Queens,90.15,0.191,Low-Low,Not significant,2022,fixed 96-NTA set
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,80.0,0.354,Low-Low,Not significant,2022,fixed 96-NTA set
+QN1205,St. Albans,Queens,94.0,0.121,Low-Low,Not significant,2022,fixed 96-NTA set
+QN1306,Springfield Gardens (South)-Brookville,Queens,175.2,0.156,High-Low,Not significant,2022,fixed 96-NTA set
+QN1307,Rosedale,Queens,149.0,0.239,High-High,Not significant,2022,fixed 96-NTA set
+BK0101,Greenpoint,Brooklyn,191.65,0.08,High-High,Not significant,2023,fixed 96-NTA set
+BK0102,Williamsburg,Brooklyn,194.64999999999998,0.07,High-High,Not significant,2023,fixed 96-NTA set
+BK0104,East Williamsburg,Brooklyn,181.79999999999998,0.21,High-High,Not significant,2023,fixed 96-NTA set
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,152.52499999999998,0.026,High-High,Not significant,2023,fixed 96-NTA set
+BK0203,Fort Greene,Brooklyn,177.10000000000002,0.276,High-High,Not significant,2023,fixed 96-NTA set
+BK0204,Clinton Hill,Brooklyn,156.875,0.482,High-Low,Not significant,2023,fixed 96-NTA set
+BK0301,Bedford-Stuyvesant (West),Brooklyn,126.525,0.402,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0302,Bedford-Stuyvesant (East),Brooklyn,119.35,0.09,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0401,Bushwick (West),Brooklyn,109.95,0.385,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0402,Bushwick (East),Brooklyn,94.2,0.07,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0501,Cypress Hills,Brooklyn,83.15,0.001,Low-Low,Low-Low,2023,fixed 96-NTA set
+BK0502,East New York (North),Brooklyn,68.02499999999999,0.086,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0503,East New York-New Lots,Brooklyn,160.5,0.038,High-Low,Not significant,2023,fixed 96-NTA set
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,191.52499999999998,0.417,High-Low,Not significant,2023,fixed 96-NTA set
+BK0602,Park Slope,Brooklyn,188.05,0.334,High-High,Not significant,2023,fixed 96-NTA set
+BK0701,Windsor Terrace-South Slope,Brooklyn,148.65,0.492,High-Low,Not significant,2023,fixed 96-NTA set
+BK0702,Sunset Park (West),Brooklyn,95.3,0.357,Low-High,Not significant,2023,fixed 96-NTA set
+BK0801,Prospect Heights,Brooklyn,126.80000000000001,0.348,Low-High,Not significant,2023,fixed 96-NTA set
+BK0802,Crown Heights (North),Brooklyn,116.7,0.183,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0901,Crown Heights (South),Brooklyn,125.87500000000001,0.126,Low-Low,Not significant,2023,fixed 96-NTA set
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,108.85,0.282,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1001,Bay Ridge,Brooklyn,109.42500000000001,0.301,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1401,Flatbush,Brooklyn,142.95,0.166,High-Low,Not significant,2023,fixed 96-NTA set
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,125.55,0.38,Low-High,Not significant,2023,fixed 96-NTA set
+BK1502,Madison,Brooklyn,119.8,0.097,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,88.0,0.487,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1601,Ocean Hill,Brooklyn,71.2,0.027,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1602,Brownsville,Brooklyn,90.80000000000001,0.086,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1701,East Flatbush-Erasmus,Brooklyn,124.6,0.213,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1702,East Flatbush-Farragut,Brooklyn,114.6,0.193,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1703,East Flatbush-Rugby,Brooklyn,89.19999999999999,0.079,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1704,East Flatbush-Remsen Village,Brooklyn,102.3,0.165,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1801,Flatlands,Brooklyn,90.8,0.163,Low-Low,Not significant,2023,fixed 96-NTA set
+BK1803,Canarsie,Brooklyn,99.2,0.176,Low-Low,Not significant,2023,fixed 96-NTA set
+BX0101,Mott Haven-Port Morris,Bronx,85.4,0.289,Low-Low,Not significant,2023,fixed 96-NTA set
+BX0401,Concourse-Concourse Village,Bronx,97.4,0.152,Low-Low,Not significant,2023,fixed 96-NTA set
+MN0101,Financial District-Battery Park City,Manhattan,248.6,0.037,High-High,Not significant,2023,fixed 96-NTA set
+MN0102,Tribeca-Civic Center,Manhattan,297.95,0.033,High-High,Not significant,2023,fixed 96-NTA set
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,206.15,0.001,High-High,High-High,2023,fixed 96-NTA set
+MN0202,Greenwich Village,Manhattan,326.1,0.001,High-High,High-High,2023,fixed 96-NTA set
+MN0203,West Village,Manhattan,258.275,0.004,High-High,High-High,2023,fixed 96-NTA set
+MN0301,Chinatown-Two Bridges,Manhattan,162.025,0.008,High-High,Not significant,2023,fixed 96-NTA set
+MN0302,Lower East Side,Manhattan,209.875,0.083,High-High,Not significant,2023,fixed 96-NTA set
+MN0303,East Village,Manhattan,201.25,0.008,High-High,Not significant,2023,fixed 96-NTA set
+MN0401,Chelsea-Hudson Yards,Manhattan,217.875,0.001,High-High,High-High,2023,fixed 96-NTA set
+MN0402,Hell's Kitchen,Manhattan,193.35,0.008,High-High,Not significant,2023,fixed 96-NTA set
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,230.3,0.001,High-High,High-High,2023,fixed 96-NTA set
+MN0502,Midtown-Times Square,Manhattan,280.125,0.002,High-High,High-High,2023,fixed 96-NTA set
+MN0602,Gramercy,Manhattan,225.14999999999998,0.004,High-High,High-High,2023,fixed 96-NTA set
+MN0603,Murray Hill-Kips Bay,Manhattan,192.95,0.001,High-High,High-High,2023,fixed 96-NTA set
+MN0604,East Midtown-Turtle Bay,Manhattan,278.25,0.011,High-High,Not significant,2023,fixed 96-NTA set
+MN0701,Upper West Side-Lincoln Square,Manhattan,233.85,0.157,High-High,Not significant,2023,fixed 96-NTA set
+MN0702,Upper West Side (Central),Manhattan,169.55,0.161,High-High,Not significant,2023,fixed 96-NTA set
+MN0703,Upper West Side-Manhattan Valley,Manhattan,127.85,0.337,Low-High,Not significant,2023,fixed 96-NTA set
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,184.65,0.018,High-High,Not significant,2023,fixed 96-NTA set
+MN0802,Upper East Side-Carnegie Hill,Manhattan,238.375,0.019,High-High,Not significant,2023,fixed 96-NTA set
+MN0803,Upper East Side-Yorkville,Manhattan,159.5,0.14,High-High,Not significant,2023,fixed 96-NTA set
+MN0901,Morningside Heights,Manhattan,135.35000000000002,0.381,Low-Low,Not significant,2023,fixed 96-NTA set
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,93.55,0.258,Low-Low,Not significant,2023,fixed 96-NTA set
+MN1001,Harlem (South),Manhattan,132.14999999999998,0.497,Low-Low,Not significant,2023,fixed 96-NTA set
+MN1002,Harlem (North),Manhattan,115.4,0.341,Low-Low,Not significant,2023,fixed 96-NTA set
+MN1101,East Harlem (South),Manhattan,106.72500000000001,0.134,Low-High,Not significant,2023,fixed 96-NTA set
+MN1102,East Harlem (North),Manhattan,137.6,0.303,Low-Low,Not significant,2023,fixed 96-NTA set
+MN1201,Washington Heights (South),Manhattan,100.5,0.127,Low-Low,Not significant,2023,fixed 96-NTA set
+MN1202,Washington Heights (North),Manhattan,92.175,0.053,Low-Low,Not significant,2023,fixed 96-NTA set
+MN1203,Inwood,Manhattan,65.75,0.24,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,83.375,0.128,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0103,Astoria (Central),Queens,97.5,0.325,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0104,Astoria (East)-Woodside (North),Queens,87.25,0.124,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,193.15,0.339,High-Low,Not significant,2023,fixed 96-NTA set
+QN0201,Long Island City-Hunters Point,Queens,179.4,0.082,High-High,Not significant,2023,fixed 96-NTA set
+QN0202,Sunnyside,Queens,68.92500000000001,0.028,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0203,Woodside,Queens,64.9,0.005,Low-Low,Low-Low,2023,fixed 96-NTA set
+QN0301,Jackson Heights,Queens,110.1,0.001,Low-Low,Low-Low,2023,fixed 96-NTA set
+QN0302,East Elmhurst,Queens,91.4,0.385,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0401,Elmhurst,Queens,42.325,0.043,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0402,Corona,Queens,83.65,0.213,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0502,Ridgewood,Queens,120.35,0.218,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0503,Glendale,Queens,127.9,0.366,Low-High,Not significant,2023,fixed 96-NTA set
+QN0602,Forest Hills,Queens,179.5,0.244,High-Low,Not significant,2023,fixed 96-NTA set
+QN0705,East Flushing,Queens,67.95,0.237,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0707,Flushing-Willets Point,Queens,92.15,0.062,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0802,Pomonok-Electchester-Hillcrest,Queens,63.95,0.444,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0805,Jamaica Hills-Briarwood,Queens,119.1,0.022,Low-Low,Not significant,2023,fixed 96-NTA set
+QN0905,Woodhaven,Queens,73.19999999999999,0.108,Low-Low,Not significant,2023,fixed 96-NTA set
+QN1001,South Ozone Park,Queens,86.94999999999999,0.416,Low-Low,Not significant,2023,fixed 96-NTA set
+QN1202,South Jamaica,Queens,147.0,0.072,High-Low,Not significant,2023,fixed 96-NTA set
+QN1203,Baisley Park,Queens,91.7,0.135,Low-Low,Not significant,2023,fixed 96-NTA set
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,77.925,0.233,Low-Low,Not significant,2023,fixed 96-NTA set
+QN1205,St. Albans,Queens,97.75,0.17,Low-Low,Not significant,2023,fixed 96-NTA set
+QN1306,Springfield Gardens (South)-Brookville,Queens,153.2,0.108,High-Low,Not significant,2023,fixed 96-NTA set
+QN1307,Rosedale,Queens,156.4,0.355,High-High,Not significant,2023,fixed 96-NTA set
+BK0101,Greenpoint,Brooklyn,185.6,0.092,High-High,Not significant,2024,fixed 96-NTA set
+BK0102,Williamsburg,Brooklyn,199.6,0.123,High-High,Not significant,2024,fixed 96-NTA set
+BK0104,East Williamsburg,Brooklyn,180.3,0.286,High-High,Not significant,2024,fixed 96-NTA set
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,176.9,0.055,High-High,Not significant,2024,fixed 96-NTA set
+BK0203,Fort Greene,Brooklyn,163.525,0.286,High-High,Not significant,2024,fixed 96-NTA set
+BK0204,Clinton Hill,Brooklyn,152.5,0.5,High-Low,Not significant,2024,fixed 96-NTA set
+BK0301,Bedford-Stuyvesant (West),Brooklyn,136.2,0.423,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0302,Bedford-Stuyvesant (East),Brooklyn,120.92500000000001,0.133,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0401,Bushwick (West),Brooklyn,108.89999999999999,0.329,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0402,Bushwick (East),Brooklyn,118.525,0.031,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0501,Cypress Hills,Brooklyn,76.6,0.01,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0502,East New York (North),Brooklyn,91.44999999999999,0.117,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0503,East New York-New Lots,Brooklyn,190.475,0.06,High-Low,Not significant,2024,fixed 96-NTA set
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,200.6,0.401,High-High,Not significant,2024,fixed 96-NTA set
+BK0602,Park Slope,Brooklyn,183.575,0.4,High-High,Not significant,2024,fixed 96-NTA set
+BK0701,Windsor Terrace-South Slope,Brooklyn,153.5,0.383,High-High,Not significant,2024,fixed 96-NTA set
+BK0702,Sunset Park (West),Brooklyn,124.62500000000001,0.183,Low-High,Not significant,2024,fixed 96-NTA set
+BK0801,Prospect Heights,Brooklyn,141.4,0.444,Low-High,Not significant,2024,fixed 96-NTA set
+BK0802,Crown Heights (North),Brooklyn,142.325,0.149,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0901,Crown Heights (South),Brooklyn,122.4,0.158,Low-Low,Not significant,2024,fixed 96-NTA set
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,111.45,0.183,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1001,Bay Ridge,Brooklyn,183.4,0.465,High-Low,Not significant,2024,fixed 96-NTA set
+BK1401,Flatbush,Brooklyn,139.6,0.161,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,156.2,0.451,High-Low,Not significant,2024,fixed 96-NTA set
+BK1502,Madison,Brooklyn,131.875,0.056,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,80.42500000000001,0.484,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1601,Ocean Hill,Brooklyn,84.925,0.043,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1602,Brownsville,Brooklyn,101.1,0.196,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1701,East Flatbush-Erasmus,Brooklyn,122.4,0.143,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1702,East Flatbush-Farragut,Brooklyn,117.2,0.117,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1703,East Flatbush-Rugby,Brooklyn,90.92500000000001,0.053,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1704,East Flatbush-Remsen Village,Brooklyn,117.05,0.17,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1801,Flatlands,Brooklyn,96.19999999999999,0.114,Low-Low,Not significant,2024,fixed 96-NTA set
+BK1803,Canarsie,Brooklyn,105.6,0.222,Low-Low,Not significant,2024,fixed 96-NTA set
+BX0101,Mott Haven-Port Morris,Bronx,142.7,0.18,Low-Low,Not significant,2024,fixed 96-NTA set
+BX0401,Concourse-Concourse Village,Bronx,92.4,0.418,Low-Low,Not significant,2024,fixed 96-NTA set
+MN0101,Financial District-Battery Park City,Manhattan,234.625,0.077,High-High,Not significant,2024,fixed 96-NTA set
+MN0102,Tribeca-Civic Center,Manhattan,258.5,0.044,High-High,Not significant,2024,fixed 96-NTA set
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,233.025,0.001,High-High,High-High,2024,fixed 96-NTA set
+MN0202,Greenwich Village,Manhattan,307.5,0.001,High-High,High-High,2024,fixed 96-NTA set
+MN0203,West Village,Manhattan,245.79999999999998,0.002,High-High,High-High,2024,fixed 96-NTA set
+MN0301,Chinatown-Two Bridges,Manhattan,162.25,0.01,High-High,Not significant,2024,fixed 96-NTA set
+MN0302,Lower East Side,Manhattan,207.375,0.084,High-High,Not significant,2024,fixed 96-NTA set
+MN0303,East Village,Manhattan,194.55,0.008,High-High,Not significant,2024,fixed 96-NTA set
+MN0401,Chelsea-Hudson Yards,Manhattan,214.4,0.001,High-High,High-High,2024,fixed 96-NTA set
+MN0402,Hell's Kitchen,Manhattan,221.425,0.008,High-High,Not significant,2024,fixed 96-NTA set
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,284.25,0.001,High-High,High-High,2024,fixed 96-NTA set
+MN0502,Midtown-Times Square,Manhattan,329.025,0.001,High-High,High-High,2024,fixed 96-NTA set
+MN0602,Gramercy,Manhattan,201.025,0.003,High-High,High-High,2024,fixed 96-NTA set
+MN0603,Murray Hill-Kips Bay,Manhattan,205.9,0.001,High-High,High-High,2024,fixed 96-NTA set
+MN0604,East Midtown-Turtle Bay,Manhattan,291.8,0.006,High-High,Not significant,2024,fixed 96-NTA set
+MN0701,Upper West Side-Lincoln Square,Manhattan,212.9,0.094,High-High,Not significant,2024,fixed 96-NTA set
+MN0702,Upper West Side (Central),Manhattan,191.2,0.252,High-High,Not significant,2024,fixed 96-NTA set
+MN0703,Upper West Side-Manhattan Valley,Manhattan,132.10000000000002,0.064,Low-High,Not significant,2024,fixed 96-NTA set
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,182.1,0.016,High-High,Not significant,2024,fixed 96-NTA set
+MN0802,Upper East Side-Carnegie Hill,Manhattan,252.75,0.013,High-High,Not significant,2024,fixed 96-NTA set
+MN0803,Upper East Side-Yorkville,Manhattan,173.1,0.16,High-High,Not significant,2024,fixed 96-NTA set
+MN0901,Morningside Heights,Manhattan,250.25,0.353,High-Low,Not significant,2024,fixed 96-NTA set
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,87.15,0.189,Low-Low,Not significant,2024,fixed 96-NTA set
+MN1001,Harlem (South),Manhattan,129.6,0.187,Low-High,Not significant,2024,fixed 96-NTA set
+MN1002,Harlem (North),Manhattan,127.1,0.427,Low-High,Not significant,2024,fixed 96-NTA set
+MN1101,East Harlem (South),Manhattan,113.4,0.166,Low-High,Not significant,2024,fixed 96-NTA set
+MN1102,East Harlem (North),Manhattan,122.175,0.271,Low-Low,Not significant,2024,fixed 96-NTA set
+MN1201,Washington Heights (South),Manhattan,92.25,0.036,Low-Low,Not significant,2024,fixed 96-NTA set
+MN1202,Washington Heights (North),Manhattan,84.65,0.014,Low-Low,Not significant,2024,fixed 96-NTA set
+MN1203,Inwood,Manhattan,67.975,0.11,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,107.4,0.082,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0103,Astoria (Central),Queens,114.7,0.266,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0104,Astoria (East)-Woodside (North),Queens,78.8,0.091,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,183.6,0.33,High-Low,Not significant,2024,fixed 96-NTA set
+QN0201,Long Island City-Hunters Point,Queens,191.27499999999998,0.115,High-High,Not significant,2024,fixed 96-NTA set
+QN0202,Sunnyside,Queens,75.35,0.028,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0203,Woodside,Queens,60.175000000000004,0.002,Low-Low,Low-Low,2024,fixed 96-NTA set
+QN0301,Jackson Heights,Queens,108.0,0.001,Low-Low,Low-Low,2024,fixed 96-NTA set
+QN0302,East Elmhurst,Queens,95.35,0.292,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0401,Elmhurst,Queens,44.65,0.021,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0402,Corona,Queens,94.975,0.067,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0502,Ridgewood,Queens,113.0,0.225,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0503,Glendale,Queens,132.85,0.342,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0602,Forest Hills,Queens,140.25,0.231,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0705,East Flushing,Queens,94.65,0.22,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0707,Flushing-Willets Point,Queens,101.075,0.184,Low-Low,Not significant,2024,fixed 96-NTA set
+QN0802,Pomonok-Electchester-Hillcrest,Queens,68.875,0.375,Low-High,Not significant,2024,fixed 96-NTA set
+QN0805,Jamaica Hills-Briarwood,Queens,159.39999999999998,0.039,High-Low,Not significant,2024,fixed 96-NTA set
+QN0905,Woodhaven,Queens,69.45,0.062,Low-Low,Not significant,2024,fixed 96-NTA set
+QN1001,South Ozone Park,Queens,160.10000000000002,0.466,High-Low,Not significant,2024,fixed 96-NTA set
+QN1202,South Jamaica,Queens,152.8,0.243,High-Low,Not significant,2024,fixed 96-NTA set
+QN1203,Baisley Park,Queens,106.725,0.299,Low-Low,Not significant,2024,fixed 96-NTA set
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,86.8,0.266,Low-Low,Not significant,2024,fixed 96-NTA set
+QN1205,St. Albans,Queens,102.17500000000001,0.17,Low-Low,Not significant,2024,fixed 96-NTA set
+QN1306,Springfield Gardens (South)-Brookville,Queens,167.55,0.242,High-Low,Not significant,2024,fixed 96-NTA set
+QN1307,Rosedale,Queens,154.925,0.332,High-High,Not significant,2024,fixed 96-NTA set
+BK0101,Greenpoint,Brooklyn,201.4,0.11,High-High,Not significant,2025,fixed 96-NTA set
+BK0102,Williamsburg,Brooklyn,193.35,0.118,High-High,Not significant,2025,fixed 96-NTA set
+BK0104,East Williamsburg,Brooklyn,218.425,0.353,High-High,Not significant,2025,fixed 96-NTA set
+BK0202,Downtown Brooklyn-DUMBO-Boerum Hill,Brooklyn,205.5,0.025,High-High,Not significant,2025,fixed 96-NTA set
+BK0203,Fort Greene,Brooklyn,173.45,0.262,High-High,Not significant,2025,fixed 96-NTA set
+BK0204,Clinton Hill,Brooklyn,168.29999999999998,0.45,High-Low,Not significant,2025,fixed 96-NTA set
+BK0301,Bedford-Stuyvesant (West),Brooklyn,147.75,0.323,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0302,Bedford-Stuyvesant (East),Brooklyn,109.5,0.304,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0401,Bushwick (West),Brooklyn,111.0,0.292,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0402,Bushwick (East),Brooklyn,126.5,0.036,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0501,Cypress Hills,Brooklyn,60.4,0.197,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0502,East New York (North),Brooklyn,107.85,0.28,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0503,East New York-New Lots,Brooklyn,201.975,0.154,High-Low,Not significant,2025,fixed 96-NTA set
+BK0601,Carroll Gardens-Cobble Hill-Gowanus-Red Hook,Brooklyn,217.2,0.372,High-High,Not significant,2025,fixed 96-NTA set
+BK0602,Park Slope,Brooklyn,205.52499999999998,0.473,High-Low,Not significant,2025,fixed 96-NTA set
+BK0701,Windsor Terrace-South Slope,Brooklyn,156.0,0.37,Low-High,Not significant,2025,fixed 96-NTA set
+BK0702,Sunset Park (West),Brooklyn,125.60000000000001,0.259,Low-High,Not significant,2025,fixed 96-NTA set
+BK0801,Prospect Heights,Brooklyn,132.7,0.489,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0802,Crown Heights (North),Brooklyn,146.6,0.19,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0901,Crown Heights (South),Brooklyn,103.85,0.13,Low-Low,Not significant,2025,fixed 96-NTA set
+BK0902,Prospect Lefferts Gardens-Wingate,Brooklyn,124.325,0.036,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1001,Bay Ridge,Brooklyn,173.85,0.442,High-Low,Not significant,2025,fixed 96-NTA set
+BK1401,Flatbush,Brooklyn,135.6,0.131,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1402,Flatbush (West)-Ditmas Park-Parkville,Brooklyn,168.325,0.451,High-Low,Not significant,2025,fixed 96-NTA set
+BK1502,Madison,Brooklyn,123.5,0.157,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1503,Sheepshead Bay-Manhattan Beach-Gerritsen Beach,Brooklyn,107.4,0.401,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1601,Ocean Hill,Brooklyn,171.77499999999998,0.029,High-Low,Not significant,2025,fixed 96-NTA set
+BK1602,Brownsville,Brooklyn,106.9,0.451,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1701,East Flatbush-Erasmus,Brooklyn,99.5,0.102,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1702,East Flatbush-Farragut,Brooklyn,123.725,0.038,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1703,East Flatbush-Rugby,Brooklyn,78.5,0.044,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1704,East Flatbush-Remsen Village,Brooklyn,141.6,0.133,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1801,Flatlands,Brooklyn,107.825,0.095,Low-Low,Not significant,2025,fixed 96-NTA set
+BK1803,Canarsie,Brooklyn,132.15,0.242,Low-Low,Not significant,2025,fixed 96-NTA set
+BX0101,Mott Haven-Port Morris,Bronx,224.85000000000002,0.195,High-Low,Not significant,2025,fixed 96-NTA set
+BX0401,Concourse-Concourse Village,Bronx,99.3,0.129,Low-High,Not significant,2025,fixed 96-NTA set
+MN0101,Financial District-Battery Park City,Manhattan,358.3,0.07,High-High,Not significant,2025,fixed 96-NTA set
+MN0102,Tribeca-Civic Center,Manhattan,294.15,0.006,High-High,Not significant,2025,fixed 96-NTA set
+MN0201,SoHo-Little Italy-Hudson Square,Manhattan,304.5,0.014,High-High,Not significant,2025,fixed 96-NTA set
+MN0202,Greenwich Village,Manhattan,300.54999999999995,0.004,High-High,High-High,2025,fixed 96-NTA set
+MN0203,West Village,Manhattan,235.60000000000002,0.002,High-High,High-High,2025,fixed 96-NTA set
+MN0301,Chinatown-Two Bridges,Manhattan,150.2,0.002,Low-High,Low-High,2025,fixed 96-NTA set
+MN0302,Lower East Side,Manhattan,194.77499999999998,0.062,High-High,Not significant,2025,fixed 96-NTA set
+MN0303,East Village,Manhattan,200.35,0.047,High-High,Not significant,2025,fixed 96-NTA set
+MN0401,Chelsea-Hudson Yards,Manhattan,215.55,0.001,High-High,High-High,2025,fixed 96-NTA set
+MN0402,Hell's Kitchen,Manhattan,233.85000000000002,0.008,High-High,Not significant,2025,fixed 96-NTA set
+MN0501,Midtown South-Flatiron-Union Square,Manhattan,331.65,0.001,High-High,High-High,2025,fixed 96-NTA set
+MN0502,Midtown-Times Square,Manhattan,373.475,0.001,High-High,High-High,2025,fixed 96-NTA set
+MN0602,Gramercy,Manhattan,194.575,0.003,High-High,High-High,2025,fixed 96-NTA set
+MN0603,Murray Hill-Kips Bay,Manhattan,215.15,0.001,High-High,High-High,2025,fixed 96-NTA set
+MN0604,East Midtown-Turtle Bay,Manhattan,273.6,0.009,High-High,Not significant,2025,fixed 96-NTA set
+MN0701,Upper West Side-Lincoln Square,Manhattan,216.0,0.109,High-High,Not significant,2025,fixed 96-NTA set
+MN0702,Upper West Side (Central),Manhattan,208.25,0.159,High-High,Not significant,2025,fixed 96-NTA set
+MN0703,Upper West Side-Manhattan Valley,Manhattan,193.2,0.446,High-Low,Not significant,2025,fixed 96-NTA set
+MN0801,Upper East Side-Lenox Hill-Roosevelt Island,Manhattan,167.05,0.05,High-High,Not significant,2025,fixed 96-NTA set
+MN0802,Upper East Side-Carnegie Hill,Manhattan,255.3,0.033,High-High,Not significant,2025,fixed 96-NTA set
+MN0803,Upper East Side-Yorkville,Manhattan,169.55,0.245,High-High,Not significant,2025,fixed 96-NTA set
+MN0901,Morningside Heights,Manhattan,82.55,0.424,Low-High,Not significant,2025,fixed 96-NTA set
+MN0903,Hamilton Heights-Sugar Hill,Manhattan,97.925,0.177,Low-Low,Not significant,2025,fixed 96-NTA set
+MN1001,Harlem (South),Manhattan,153.89999999999998,0.044,Low-Low,Not significant,2025,fixed 96-NTA set
+MN1002,Harlem (North),Manhattan,138.8,0.022,Low-Low,Not significant,2025,fixed 96-NTA set
+MN1101,East Harlem (South),Manhattan,122.75,0.31,Low-High,Not significant,2025,fixed 96-NTA set
+MN1102,East Harlem (North),Manhattan,98.15,0.344,Low-Low,Not significant,2025,fixed 96-NTA set
+MN1201,Washington Heights (South),Manhattan,88.10000000000001,0.091,Low-Low,Not significant,2025,fixed 96-NTA set
+MN1202,Washington Heights (North),Manhattan,101.44999999999999,0.086,Low-Low,Not significant,2025,fixed 96-NTA set
+MN1203,Inwood,Manhattan,109.17500000000001,0.211,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0101,Astoria (North)-Ditmars-Steinway,Queens,86.55000000000001,0.043,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0103,Astoria (Central),Queens,115.425,0.155,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0104,Astoria (East)-Woodside (North),Queens,75.94999999999999,0.044,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0105,Queensbridge-Ravenswood-Dutch Kills,Queens,185.7,0.19,High-Low,Not significant,2025,fixed 96-NTA set
+QN0201,Long Island City-Hunters Point,Queens,170.3,0.202,High-High,Not significant,2025,fixed 96-NTA set
+QN0202,Sunnyside,Queens,79.1,0.042,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0203,Woodside,Queens,62.349999999999994,0.001,Low-Low,Low-Low,2025,fixed 96-NTA set
+QN0301,Jackson Heights,Queens,111.325,0.001,Low-Low,Low-Low,2025,fixed 96-NTA set
+QN0302,East Elmhurst,Queens,94.575,0.326,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0401,Elmhurst,Queens,47.2,0.011,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0402,Corona,Queens,88.6,0.019,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0502,Ridgewood,Queens,93.375,0.201,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0503,Glendale,Queens,133.325,0.127,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0602,Forest Hills,Queens,113.225,0.166,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0705,East Flushing,Queens,92.6,0.47,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0707,Flushing-Willets Point,Queens,134.45,0.135,Low-Low,Not significant,2025,fixed 96-NTA set
+QN0802,Pomonok-Electchester-Hillcrest,Queens,87.8,0.202,Low-High,Not significant,2025,fixed 96-NTA set
+QN0805,Jamaica Hills-Briarwood,Queens,214.05,0.101,High-Low,Not significant,2025,fixed 96-NTA set
+QN0905,Woodhaven,Queens,106.75,0.027,Low-Low,Not significant,2025,fixed 96-NTA set
+QN1001,South Ozone Park,Queens,243.0,0.376,High-High,Not significant,2025,fixed 96-NTA set
+QN1202,South Jamaica,Queens,196.75,0.453,High-Low,Not significant,2025,fixed 96-NTA set
+QN1203,Baisley Park,Queens,108.8,0.277,Low-High,Not significant,2025,fixed 96-NTA set
+QN1204,Springfield Gardens (North)-Rochdale Village,Queens,130.55,0.34,Low-Low,Not significant,2025,fixed 96-NTA set
+QN1205,St. Albans,Queens,120.44999999999999,0.414,Low-Low,Not significant,2025,fixed 96-NTA set
+QN1306,Springfield Gardens (South)-Brookville,Queens,187.8,0.418,High-High,Not significant,2025,fixed 96-NTA set
+QN1307,Rosedale,Queens,163.175,0.322,High-High,Not significant,2025,fixed 96-NTA set
