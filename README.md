@@ -81,6 +81,6 @@ Open `outputs/qgis/airbnb_nyc_results.qgz` in QGIS (project CRS EPSG:2263). The 
 - Room-type mix differs between neighbourhoods and contributes to the clustering.
 - Rates are nominal USD; the dataset does not define ADR for months with zero occupancy.
 
-## Author
+## Project by
 
-Aparna V, MSc Computer Science with Data Analytics. Code licence: [to be chosen].
+Aparna V, MSc Computer Science with Data Analytics. 
